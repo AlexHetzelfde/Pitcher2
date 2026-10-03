@@ -61,13 +61,6 @@ module.exports = [
     url: "https://www.dezaanseschans.nl/contact/actueel/",
   },
   {
-    id: "hhnk-nieuws",
-    naam: "Hoogheemraadschap Hollands Noorderkwartier — Nieuws",
-    categorie: "lokaal",
-    type: "generieke-lijst",
-    url: "https://www.hhnk.nl/nieuws",
-  },
-  {
     id: "hhnk-actueel",
     naam: "Hoogheemraadschap Hollands Noorderkwartier — Actueel",
     categorie: "lokaal",
