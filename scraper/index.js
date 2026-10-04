@@ -3,7 +3,7 @@
 // Volgorde:
 // 1. Alles scrapen (per bron, met eigen scraper-type)
 // 2. Tellen hoeveel berichten er zijn, VOORDAT Gemini wordt aangeroepen
-//    en van elk nieuw bericht de tekst ophalen (hulpmiddelen.js), zodat
+//    en van elk bericht de tekst ophalen (hulpmiddelen.js), zodat
 //    Gemini meer ziet dan alleen een titel
 // 3. Splitsen in lokaal/landelijk en sorteren op datum (nieuwste, bij een
 //    agenda het dichtstbijzijnde evenement, eerst) — dat bepaalt wie binnen
@@ -146,7 +146,7 @@ async function werkBronGezondheidBij({ gevondenPerBron, overPerBron }) {
   await schrijfJson("bron-gezondheid.json", nieuw);
 }
 
-async function scrapeAlleBronnen(gezieneUrls) {
+async function scrapeAlleBronnen() {
   const alleBerichten = [];
 
   for (const bron of bronnen) {
@@ -158,10 +158,7 @@ async function scrapeAlleBronnen(gezieneUrls) {
 
     const startBron = Date.now();
     try {
-      // gezieneUrls wordt alleen door de iBabs-scraper gebruikt (om dure
-      // documentinhoud-ophaal-stappen over te slaan voor berichten die al
-      // eerder verwerkt zijn) — andere scraper-types negeren dit argument.
-      const berichten = await scraper(bron, gezieneUrls);
+      const berichten = await scraper(bron);
       const duurSec = ((Date.now() - startBron) / 1000).toFixed(1);
       console.log(`[${bron.id}] ${berichten.length} bericht(en) gevonden (${duurSec}s).`);
 
@@ -185,27 +182,6 @@ async function scrapeAlleBronnen(gezieneUrls) {
   }
 
   return alleBerichten;
-}
-
-const GEZIENE_URLS_BESTAND = path.join(DATA_MAP, "geziene-urls.json");
-
-async function laadGezieneUrls() {
-  try {
-    const inhoud = await fs.readFile(GEZIENE_URLS_BESTAND, "utf-8");
-    return new Set(JSON.parse(inhoud));
-  } catch {
-    return new Set(); // eerste keer draaien, of bestand nog niet aanwezig
-  }
-}
-
-async function schrijfGezieneUrls(set) {
-  await fs.mkdir(DATA_MAP, { recursive: true });
-  const array = Array.from(set).slice(-5000);
-  await fs.writeFile(GEZIENE_URLS_BESTAND, JSON.stringify(array, null, 2), "utf-8");
-}
-
-function filterOpNieuw(berichten, gezieneUrls) {
-  return berichten.filter((b) => b.url && !gezieneUrls.has(b.url));
 }
 
 function verwijderDubbelen(berichten) {
@@ -281,13 +257,12 @@ async function main() {
     );
   }
 
-  // Stap 1: scrapen — geziene-urls wordt eerst geladen zodat scrapers die
-  // dat willen (zoals iBabs, waar het ophalen van documentinhoud duur is)
-  // al eerder verwerkte berichten meteen kunnen overslaan.
+  // Stap 1: scrapen. Elke run begint opnieuw: alles ophalen, filteren op het
+  // venster van vandaag, en de uitvoerbestanden overschrijven. Er is geen
+  // geheugen van eerdere runs, dus een run kan altijd opnieuw gedraaid worden.
   logFase("STAP 1 — Scrapen");
-  const gezieneUrls = await laadGezieneUrls();
   const startScrapen = Date.now();
-  const ruweBerichten = await scrapeAlleBronnen(gezieneUrls);
+  const ruweBerichten = await scrapeAlleBronnen();
   logDuur(startScrapen, `Scrapen van ${bronnen.length} bronnen`);
   console.log(`Ruw aantal berichten (vóór leeftijdsfilter/dedup): ${ruweBerichten.length}`);
 
@@ -319,17 +294,13 @@ async function main() {
   logBronOverzicht(tellingen);
   await werkBronGezondheidBij(tellingen);
 
-  // Stap 1b: dedupliceren binnen deze run + alleen berichten die we nog
-  // niet eerder (in een vorige run) hebben gezien.
-  const berichtenVanVandaag = filterOpNieuw(verwijderDubbelen(recenteBerichten), gezieneUrls);
+  // Stap 1b: dubbele url's binnen deze run eruit.
+  const berichtenVanVandaag = verwijderDubbelen(recenteBerichten);
 
   // Stap 2: tellen, vóórdat de AI wordt aangeroepen
-  console.log(`Totaal aantal nieuwe berichten vandaag: ${berichtenVanVandaag.length}`);
+  console.log(`Totaal aantal berichten binnen het venster (na ontdubbeling): ${berichtenVanVandaag.length}`);
 
-  berichtenVanVandaag.forEach((b) => gezieneUrls.add(b.url));
-  await schrijfGezieneUrls(gezieneUrls);
-
-  // Stap 2b: de tekst van elk nieuw bericht ophalen. De lijstpagina geeft
+  // Stap 2b: de tekst van elk bericht ophalen. De lijstpagina geeft
   // meestal alleen een titel; Gemini heeft de tekst nodig om het gevolg voor
   // mensen te kunnen beoordelen. Het resultaat komt in het bestaande veld
   // samenvatting. Mislukt het ophalen, dan gaat het bericht door met de
