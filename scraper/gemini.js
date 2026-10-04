@@ -41,6 +41,12 @@ mensen worden geraakt, het gevolg grijpt dieper in (geld, vervoer, zorg, onderwi
 wonen, veiligheid), het gaat sneller in en het speelt dichter bij Zaanstreek-Waterland.
 Een bericht dat "nee" krijgt, krijgt prioriteit 1.
 
+De datum van vandaag staat onder het bericht. Hoe dichterbij in de tijd het gevolg of de
+gebeurtenis ligt, hoe hoger de prioriteit: iets dat vandaag of de komende dagen speelt weegt
+zwaarder dan iets dat al voorbij is of pas over weken speelt. Let op: een bericht dat een paar
+dagen geleden is geplaatst maar iets aankondigt dat vandaag of binnenkort plaatsvindt, is nu
+juist heel relevant. Haal de datum van het gevolg alleen uit de tekst; verzin er geen.
+
 Geef ALLEEN geldig JSON terug, in dit exacte formaat, zonder markdown-fences of andere tekst:
 {
   "oppakbaar": "ja" | "twijfel" | "nee",
@@ -80,6 +86,12 @@ Geef daarnaast een prioriteit als geheel getal van 1 tot en met 10. Hoger beteke
 mensen in de regio worden geraakt, het gevolg grijpt dieper in, het gaat sneller in en het
 is concreter te maken voor Zaanstreek-Waterland. Een bericht dat "nee" krijgt, krijgt
 prioriteit 1.
+
+De datum van vandaag staat onder het bericht. Hoe dichterbij in de tijd het gevolg of de
+gebeurtenis ligt, hoe hoger de prioriteit: iets dat vandaag of de komende dagen speelt weegt
+zwaarder dan iets dat al voorbij is of pas over weken speelt. Let op: een bericht dat een paar
+dagen geleden is geplaatst maar iets aankondigt dat vandaag of binnenkort plaatsvindt, is nu
+juist heel relevant. Haal de datum van het gevolg alleen uit de tekst; verzin er geen.
 
 Als je een "ja" of "twijfel" geeft, werk de pitch dan verder uit: een voorgestelde
 kop, een korte uitleg van het gevolg voor de betrokken mensen (2-4 zinnen), en concrete
@@ -127,7 +139,10 @@ function maakPrioriteit(waarde) {
  */
 async function beoordeelMetGemini(bericht, apiKey, pogingen = 3) {
   const prompt = bericht.categorie === "lokaal" ? PROMPT_LOKAAL : PROMPT_LANDELIJK;
-  const volledigePrompt = `${prompt}\n\n---\nBERICHT\nTitel: ${bericht.titel}\nTekst: ${bericht.samenvatting || "(geen tekst beschikbaar, alleen de titel)"}\nBron: ${bericht.bronNaam}\nURL: ${bericht.url}\nDatum (publicatie, of bij een agenda de datum van het evenement): ${bericht.gepubliceerdOp || "onbekend"}`;
+  // De datum van vandaag (Nederlandse tijd), zodat Gemini kan wegen hoe dichtbij iets speelt.
+  const vandaag = new Date().toLocaleDateString("nl-NL", { weekday: "long", day: "numeric", month: "long", year: "numeric", timeZone: "Europe/Amsterdam" });
+  const vandaagIso = new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/Amsterdam" });
+  const volledigePrompt = `${prompt}\n\n---\nVandaag: ${vandaag} (${vandaagIso})\n\nBERICHT\nTitel: ${bericht.titel}\nTekst: ${bericht.samenvatting || "(geen tekst beschikbaar, alleen de titel)"}\nBron: ${bericht.bronNaam}\nURL: ${bericht.url}\nDatum (publicatie, of bij een agenda de datum van het evenement): ${bericht.gepubliceerdOp || "onbekend"}`;
 
   let laatsteFout;
   for (let poging = 1; poging <= pogingen; poging++) {
