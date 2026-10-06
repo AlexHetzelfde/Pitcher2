@@ -1,6 +1,6 @@
 {
-  "gegenereerdOp": "2026-10-05T00:12:31.896Z",
-  "aantalBerichtenTotaal": 177,
+  "gegenereerdOp": "2026-10-06T01:54:56.382Z",
+  "aantalBerichtenTotaal": 160,
   "topPitches": [
     {
       "bronId": "nh-actueel",
@@ -10,16 +10,16 @@
       "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Voorbereidingen_van_start_voor_versterken_viaduct_N244_bij_Middenbeemster",
       "samenvatting": "Voorbereidingen van start voor versterken viaduct N244 bij Middenbeemster Publicatiedatum: 1 oktober 2026 Laatst gewijzigd: 2 oktober 2026 0 reacties De provincie Noord-Holland bereidt het herstel voor van het viaduct in de N244 bij Middenbeemster. De constructie is verouderd en aangetast. Het versterken van het viaduct is nodig zodat zwaar verkeer er weer veilig overheen kan rijden. De provincie onderzoekt de staat van het viaduct. In oktober is de N244 daarom één keer afgesloten. Op de Middenweg is er meerdere dagen hinder. De resultaten van de onderzoeken geven meer duidelijkheid over de aanpak van de werkzaamheden en de duur van de afsluitingen. De verwachting is dat het viaduct vanaf voorjaar 2027 meerdere maanden dicht gaat. De manier waarop dit viaduct is gebouwd zorgt er voor dat het staal in het beton gaat roesten door strooizout. Hierdoor ontstaan zwakke plekken in de constructie en is herstel nodig. Dankzij tijdelijke maatregelen op de weg kan het verkeer veilig over de N244 rijden. Wegafsluitingen vanwege onderzoek Korte wegafsluitingen zijn nodig om te onderzoeken in hoeverre de constructie is aangetast en welke maatregelen nodig zijn. Het gaat om de volgende data en hinder: Maandag 5 oktober van 7.00 – 16.00 uur Openbaar vervoer: bushalte De Knip vervalt aan oostzijde van de Middenweg (richting Alkmaar). Bussen rijden wel maar halteren niet bij deze bushalte Fietsers: het fietspad langs de Middenweg is afgesloten. Omleiding via de Rijperweg, Jisperweg en Volgerweg Autoverkeer: geen hinder. De Middenweg en de N244 blijven open Dinsdag 6 oktober van 7.00 tot woensdag 7 oktober 16.00 uur Openbaar vervoer: bushalte De Knip vervalt aan westzijde van de Middenweg (richting Purmerend). Bussen rijden wel maar halteren niet bij deze bushalte Fietsers: rijden over de rijbaan van de Middenweg. Het fietspad is afgesloten Autoverkeer: rijdt om-en-om over één rijstrook op de Middenweg. De N244 blijft open Dinsdag 13 oktober van 7.00 – 16.00 uur Openbaar vervoer: bushalte De Knip vervalt aan de oostzijde van de Middenweg (richting Alkmaar). Bussen rijden wel maar halteren niet bij deze bushalte Fietsers: het fietspad langs de Middenweg is afgesloten. Omleiding via de Rijperweg, Jisperweg en Volgerweg Autoverkeer: geen hinder. De N244 en de Middenweg blijven open Woensdag 14 oktober van 7.00 – 16.00 uur Openbaar vervoer: bushalte De Knip vervalt aan westzijde Middenweg (richting Purmerend). Bussen rijden wel maar halteren niet bij deze bushalte Fietsers: geen hinder, het fietspad blijft open Autoverkeer: rijdt om-en-om over één rijstrook op de Middenweg. De N244 blijft open Donderdag 15 oktober van 20.00 uur tot volgende ochtend 5.00 uur Autoverkeer: de N244 is dicht in beide richtingen. De afritten van- en naar Middenbeemster/A7 blijven open, net als de Middenweg. Het verkeer wordt omgeleid via de A7, A8 en N246 en vice versa Openbaar vervoer: bus 100 en 305 rijden volgens een gewijzigde dienstregeling (voor meer informatie bekijk de reisplanner…",
       "gepubliceerdOp": "2026-10-01T16:42:55.000Z",
-      "opgehaaldOp": "2026-10-04T23:54:42.451Z",
+      "opgehaaldOp": "2026-10-06T01:43:25.967Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgvoor": "Reizigers van buslijn 100 en 305, buspassagiers bij halte De Knip, fietsers en automobilisten rond de N244 en Middenweg bij Middenbeemster",
-        "gevolg": "Door voorbereidende werkzaamheden en onderzoeken is de N244 op donderdag 15 oktober afgesloten, rijdt autoverkeer op diverse dagen om-en-om over één rijstrook, vervalt bushalte De Knip op meerdere momenten en rijden bus 100 en 305 op 15 oktober volgens een gewijzigde dienstregeling. Fietsers krijgen te maken met fietspdafsluitingen en omleidingen.",
-        "invalshoek": "Wat betekent dit voor reizigers en verkeer rond Middenbeemster: tijdelijke bushalte-uitvallen, omleidingen en wegafsluitingen voor auto's, bussen en fietsers door onderzoek bij het N244-viaduct.",
-        "onderbouwing": "Het bericht somt concrete wegafsluitingen, vervallen bushaltes, omleidingsroutes en gewijzigde bustijden op voor oktober 2026 die direct ingrijpen in het reisgedrag van weggebruikers en OV-reizigers in de regio Zaanstreek-Waterland.",
-        "techeckenbronnen": [
+        "gevolgenVoor": "Autoverkeer, busreizigers en fietsers rond Middenbeemster en de N244/Middenweg",
+        "gevolg": "Reizigers hebben te maken met vervallen bushaltes, omleidingen voor fietsers, om-en-om verkeer en op 15 oktober een nachtelijke afsluiting van de N244 met gewijzigde busdiensten voor lijn 100 en 305.",
+        "invalshoek": "Wat betekent dit voor weggebruikers en reizigers bij Middenbeemster:wegafsluitingen en omleidingen door onderzoek aan het N244-viaduct.",
+        "onderbouwing": "Het bericht somt concrete data en tijden in oktober 2026 op waarop bushaltes vervallen, fietspaden dicht zijn en autoverkeer of bussen moeten omrijden vanwege onderzoeken aan het viaduct.",
+        "teCheckenBronnen": [
           "Provincie Noord-Holland",
-          "Reisplanner openbaar vervoer"
+          "Reisplanner OV"
         ],
         "prioriteit": 9
       },
@@ -33,14 +33,13 @@
       "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Afsluiting_N246_tussen_Buitenhuizen_en_Westzaan_en_afsluiting_oprit_N246_A8",
       "samenvatting": "Afsluiting N246 tussen Buitenhuizen en Westzaan en afsluiting oprit N246/A8 Publicatiedatum: 30 september 2026 Laatst gewijzigd: 1 oktober 2026 0 reacties De waterdoorgang onder de weg van het pompgemaal ter hoogte van Vaartdijk/Nauerna is lek. Om de waterdoorgang te herstellen wordt de N246 van vrijdag 9 oktober 09.00 uur tot en met maandag 12 oktober 16.00 uur afgesloten. Aannemer VolkerInfra voert dan in opdracht van de provincie Noord-Holland herstelwerkzaamheden uit. Wat gaat er gebeuren? De volledige rijweg en het fietspad moeten worden verwijderd om goed bij de waterdoorgang te kunnen. Gelijktijdig wordt ter hoogte van de rotonde met de Zaandammerweg een slecht stuk asfalt hersteld. Op zondag 11 oktober wordt op de N246 ter hoogte van de oprit A8 ook een slecht stuk asfalt hersteld. Afsluitingen De werkzaamheden aan de waterdoorgang en het asfalt bij de rotonde worden uitgevoerd tussen vrijdag 9 oktober 09.00 uur en maandag 12 oktober 16.00 uur. De weg is dan voor al het verkeer afgesloten tussen de rotonde N246-Zaandammerweg en Vaartdijk 1. De rotonde zelf blijft open voor al het verkeer. De omleidingsroute bij de afsluiting van de N246. Klik op de kaart voor een grotere weergave. De werkzaamheden op de N246/oprit A8 vinden op zondag 11 oktober plaats van 07.00 uur tot 20.00 uur. De N246 is dan ter hoogte van de oprit A8 in beide richtingen afgesloten, inclusief de oprit naar de A8. De afrit van de A8 naar de N246 richting Krommenie is wel open. De afsluiting en omleiding bij de werkzaamheden aan de N246 en nabij de oprit A8. Klik op de kaart voor een grotere weergave. Vragen of meer informatie Heeft u vragen over het onderhoud van provinciale wegen en vaarwegen in de regio Zaanstreek Waterland? Neem dan contact op met het Servicepunt van de provincie Noord-Holland via 0800-0200600 (gratis) of per mail servicepunt@noord-holland.nl. Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
       "gepubliceerdOp": "2026-09-30T13:44:35.000Z",
-      "opgehaaldOp": "2026-10-04T23:54:42.451Z",
+      "opgehaaldOp": "2026-10-06T01:43:25.967Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgVoorers": "",
-        "gevolgenVoor": "weggebruikers en fietsers op de N246 tussen Buitenhuizen en Westzaan en verkeer bij de oprit N246/A8",
-        "gevolg": "De N246 is van vrijdag 9 oktober 09.00 uur tot maandag 12 oktober 16.00 uur afgesloten voor al het verkeer tussen de rotonde N246-Zaandammerweg en Vaartdijk 1, en op zondag 11 oktober is de N246 ter hoogte van de oprit A8 in beide richtingen afgesloten.",
-        "invalshoek": "Wat betekent dit voor weggebruikers op de N246: flinke wegafsluitingen en omleidingen door herstelwerkzaamheden komend weekend.",
-        "onderbouwing": "Het bericht beschrijft concrete weg- en fietspadafsluitingen door herstelwerkzaamheden die vanaf vrijdag 9 oktober plaatsvinden in Zaanstreek-Waterland, wat direct effect heeft op de reistijd en route van verkeer.",
+        "gevolgenVoor": "weggebruikers en fietsers op de N246 tussen Buitenhuizen en Westzaan en de oprit naar de A8",
+        "gevolg": "De N246 is van vrijdag 9 oktober 09.00 uur tot en met maandag 12 oktober 16.00 uur volledig afgesloten voor al het verkeer en fietsers tussen de rotonde N246-Zaandammerweg en Vaartdijk 1. Daarnaast is op zondag 11 oktober van 07.00 uur tot 20.00 uur de N246 ter hoogte van de oprit A8 in beide richtingen afgesloten, inclusief de oprit naar de A8.",
+        "invalshoek": "Wat betekent dit voor weggebruikers en fietsers op de N246: zij worden geconfronteerd met afsluitingen en omleidingen door herstelwerkzaamheden aan een lekke waterdoorgang en slecht asfalt.",
+        "onderbouwing": "Het bericht beschrijft concrete wegafsluitingen en omleidingen voor een specifieke periode komend weekend (vrijdag 9 tot maandag 12 oktober en zondag 11 oktober), wat direct ingrijpt op de reistijd en route van verkeer en fietsers in de regio Zaanstreek-Waterland.",
         "teCheckenBronnen": [
           "Provincie Noord-Holland",
           "VolkerInfra"
@@ -58,19 +57,19 @@
       "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/67c273b7-e01f-4be5-b4d4-90ce9bb091c6",
       "samenvatting": "From: Gemeente Zaanstad Sent: Fri, 2 Oct 2026 16:01:33 +0200 (CEST) To: Mailbox Raadsgriffie Subject: Het laatste nieuws uit Zaanstad 2 oktober 2026 Van een lege kamer naar een warm welkom Noa (26) had een kamer over in haar appartement in Wormerveer. Nathan (22) verhuisde vanuit de Verenigde Staten naar Nederland om hier te studeren en een nieuw leven op te bouwen. Via Hospi Housing vonden ze elkaar. Wat begon als het verhuren van een lege kamer, groeide uit tot een fijne woonsituatie. Nathan: \"Voor mij was het veel meer dan een kamer. Ik kwam in een nieuw land terecht en had meteen een fijne plek waar ik me welkom voelde.\" Hoe vonden Noa en Nathan elkaar? En wat maakt hospitaverhuur voor hen zo bijzonder? Lees hun verhaal en ontdek hoe een lege kamer kan uitgroeien tot een warm thuis. Naar het interview Gemeenten houden wapeninleveractie De gemeentes Zaanstad, Oostzaan en Wormerland organiseren samen met de Politie Noord-Holland Noord een wapeninleveractie. Deze is van 5 tot en met 11 oktober. Dan kunt u uw messen, stoot- of slagwapens anoniem inleveren op het politiebureau Guishof 1 in Zaandijk. Lees meer Uw mening telt! HVC verzorgt de afvalinzameling in onze gemeente. Wat gaat goed en wat kan beter? Laat het weten via het klanttevredenheidsonderzoek van HVC. Deel uw ervaringen over de afvalinzameling en dienstverlening. Invullen duurt ongeveer 10 minuten. Vul de vragenlijst in Maak van uw evenement een succes Wilt u uw evenement goed voorbereiden en sneller een vergunning aanvragen? Meld u aan voor de gratis Zaanse Event Academy. Tijdens drie bijeenkomsten krijgt u praktische tips en informatie die u direct kunt gebruiken voor uw eigen evenement. Meer informatie Zaanstad Journaal In huis-aan-huiskrant het Nieuwsblad Zaanstad vindt u het Zaanstad Journaal. Hierin staat nog meer nieuws van de gemeente Zaanstad. Denk aan een toelichting op besluiten, gemeentelijk beleid of nieuwe initiatieven. U kunt het Zaanstad Journaal ook online lezen, via onderstaande button. Zaanstad Journaal Bekendmakingen van B&W Heeft mijn buurman die bouwvergunning nu aangevraagd? Klopt het dat er bomen worden gekapt? Zijn er horecavergunningen verleend? Deze en andere officiële bekendmakingen vindt u in het Nieuwsblad Zaanstad of online via onderstaande button. Bekendmakingen Volg ons Afmelden voor de mailing Contact",
       "gepubliceerdOp": "2026-10-02T00:00:00.000Z",
-      "opgehaaldOp": "2026-10-04T23:54:14.975Z",
+      "opgehaaldOp": "2026-10-06T01:42:59.129Z",
       "documentInhoudOpgehaald": true,
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenVoor": "inwoners van Zaanstad, Oostzaan en Wormerland die messen, stoot- of slagwapens bezitten",
-        "gevolg": "Zij kunnen van 5 tot en met 11 oktober hun wapens anoniem inleveren op het politiebureau aan de Guishof 1 in Zaandijk.",
-        "invalshoek": "Wat betekent dit voor wapenbezitters in Zaanstreek-Waterland: zij kunnen hun messen en slagwapens komende week anoniem inleveren bij de politie.",
-        "onderbouwing": "De gemeentes Zaanstad, Oostzaan en Wormerland organiseren samen met de politie een wapeninleveractie van 5 tot en met 11 oktober waarbij wapens anoniem kunnen worden ingeleverd op het politiebureau in Zaandijk.",
+        "gevolgenVoor": "Inwoners van Zaanstad, Oostzaan en Wormerland die messen, stoot- of slagwapens willen inleveren",
+        "gevolg": "Van 5 tot en met 11 oktober kunnen zij hun wapens anoniem inleveren op het politiebureau aan de Guishof 1 in Zaandijk.",
+        "invalshoek": "Wat betekent dit voor wapenbezitters in Zaanstreek-Waterland: zij kunnen van 5 tot en met 11 oktober anoniem hun messen en slagwapens inleveren op het politiebureau in Zaandijk.",
+        "onderbouwing": "Het bericht bevat een concrete oproep en praktische informatie over een wapeninleveractie die in de huidige week (5 tot en met 11 oktober 2026) plaatsvindt op een specifieke locatie in de regio.",
         "teCheckenBronnen": [
           "Gemeente Zaanstad",
           "Politie Noord-Holland Noord"
         ],
-        "prioriteit": 7
+        "prioriteit": 8
       },
       "aiFout": null
     },
@@ -82,18 +81,41 @@
       "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Stem_tot_6_oktober_op_de_naam_voor_de_nieuwe_onderdoorgang_HOV_Beverwijk_Velsen_Noord",
       "samenvatting": "Stem tot 6 oktober op de naam voor de nieuwe onderdoorgang HOV Beverwijk/Velsen-Noord Publicatiedatum: 1 oktober 2026 Laatst gewijzigd: 2 oktober 2026 0 reacties Tijdens de officiële opening van het project HOV Beverwijk/Velsen Noord op woensdagmiddag 30 september zijn de 3 mogelijke namen onthuld. Deze zijn door de omgeving bedacht. Iedereen kan tot 6 oktober op 1 van de 3 namen stemmen: De Verbinding, Wijkeroogpoort of Wijkeroogpassage. Stem Samenwerking en verbinding Er gebeurde veel meer op de officiële opening van de 2 HOV-busbanen en de onderdoorgang onder de Velsertraverse. Die stond in het teken van samenwerking en verbinding met omwonenden en andere betrokkenen. Zo kwamen de bestuurlijke genodigden samen met verschillende omwonenden bij de nieuwe bushalte aan in een bus van Stichting Vrienden van Velsen-Noord. Een flink aantal gasten stond daar al klaar om hen feestelijk welkom te heten. Leerlingen van groep 8 van basisschool de Plataan stelden in de feesttent vragen aan de vertegenwoordigers van de betrokken partijen provincie Noord-Holland, gemeenten Beverwijk en Velsen, ProRail en Heijmans. Ze waren benieuwd hoe zwaar de de fiets- en voetgangersonderdoorgang is en of het resultaat geworden is zoals bedacht. Maar ze stelden ook persoonlijke vragen. Ze wilden bijvoorbeeld weten hoe je directeur wordt en wat de bestuurders het leukst vinden aan hun werk. Unieke kunstkaart Verder werden de 3 namen voor de onderdoorgang bekendgemaakt door 2 deelnemers van de participatiewerkgroep. Dagvoorzitter Rens Merkelbach overhandigde hen een speciale afdruk van het kunstwerk van Rosa Everts voor de onderdoorgang. De afdruk in de vorm van een kunstkaart is een eenmalige uitgave. Alle aanwezigen kregen een kunstkaart mee naar huis. Vervolgens was het de beurt aan de BMX-fietsers van f.c.c. Wijkeroog om als eerste door de onderdoorgang te fietsen. Ze vertoonden hun kunsten en reden door een wolk van rook en serpentines door de onderdoorgang naar de feestlocatie. Leerlingen van groep 8 fietsten er massaal achteraan. Middag vol activiteiten Na de officiële opening volgde een middagprogramma met allerlei lekkers en activiteiten voor jong en oud. Bezoekers konden deelnemen aan een BMX-clinic, een buurtsafari, een rondleiding over het terrein en een valpreventieworkshop. Ook beantwoordde kunstenares Rose Everts alle vragen over het kunstwerk in de onderdoorgang. Ruim 250 mensen bezochten de feestelijke middag. Halte Velsertraverse vervalt per 2 oktober Vanaf vrijdag 2 oktober halteert de bus bij de nieuwe bushalte aan de nieuwe busbaan. De oude bushalte langs de Velsertraverse vervalt dan en wordt afgebroken. De busbaan aan de Velsertraverse wordt in gebruik genomen om een snellere route van en naar het station te bieden. Dit geldt voor de lijnen 73, 74 en 244. Weekendwerkzaamheden van 2 tot 4 oktober In het weekend van vrijdagavond 2 tot zondagavond 4 oktober verbeteren we de bestaande oversteeklocatie voor voetgangers en fietsers. Bij de stoplichten over…",
       "gepubliceerdOp": "2026-10-01T08:58:02.000Z",
-      "opgehaaldOp": "2026-10-04T23:54:42.451Z",
+      "opgehaaldOp": "2026-10-06T01:43:25.967Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
         "gevolgenVoor": "reizigers van buslijnen 73, 74 en 244",
-        "gevolg": "Vanaf vrijdag 2 oktober halteert de bus bij de nieuwe bushalte aan de nieuwe busbaan, terwijl de oude bushalte langs de Velsertraverse is vervallen en wordt afgebroken.",
-        "invalshoek": "Wat betekent dit voor reizigers van buslijnen 73, 74 en 244: zij moeten per 2 oktober opstappen bij een nieuwe bushalte in plaats van de vervallen halte langs de Velsertraverse.",
-        "onderbouwing": "In de tekst staat dat vanaf vrijdag 2 oktober de bus halteert bij de nieuwe bushalte aan de nieuwe busbaan, en dat de oude bushalte langs de Velsertraverse vervalt en wordt afgebroken voor de lijnen 73, 74 en 244.",
+        "gevolg": "Vanaf vrijdag 2 oktober halteert de bus bij de nieuwe bushalte aan de nieuwe busbaan, waardoor de oude halte langs de Velsertraverse vervalt en wordt afgebroken voor een snellere route naar het station.",
+        "invalshoek": "Wat betekent dit voor reizigers van buslijnen 73, 74 en 244: zij moeten vanaf 2 oktober opstappen bij een nieuwe bushalte in plaats van de oude halte aan de Velsertraverse.",
+        "onderbouwing": "Het bericht vermeldt expliciet dat per 2 oktober de oude halte langs de Velsertraverse vervalt en bussen van lijnen 73, 74 en 244 bij de nieuwe bushalte aan de nieuwe busbaan halteren voor een snellere route.",
         "teCheckenBronnen": [
           "Provincie Noord-Holland",
-          "Concessiehouder van buslijnen 73, 74 en 244"
+          "Transdev / Connexxion (voor buslijnen 73, 74 en 244)"
         ],
         "prioriteit": 7
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "hhnk",
+      "bronNaam": "hhnk",
+      "categorie": "lokaal",
+      "titel": "Geef water de ruimte, check je sloot!",
+      "url": "https://www.hhnk.nl/geef-water-de-ruimte-check-je-sloot",
+      "samenvatting": "Vanaf maandag 19 oktober controleren de schouwmeesters van Hoogheemraadschap Hollands Noorderkwartier (HHNK) tijdens de najaarsschouw of de sloten in ons gebied goed zijn onderhouden. Goed onderhouden sloten zijn nodig voor een goede aanvoer, afvoer en berging van water. Hoogheemraad Jos Beemsterboer, portefeuillehouder Integraal waterbeheer landelijk gebied: “Met goed onderhouden sloten voorkomen we samen het risico op wateroverlast én zijn we beter voorbereid op droge periodes.” Onderhoud van sloten Eigenaren van een perceel dat grenst aan een sloot zijn meestal verantwoordelijk voor het onderhoud van die sloot. Soms gelden andere afspraken over wie het onderhoud moet doen. Op hhnk.nl/najaarsschouw staat een digitale kaart (de legger Wateren). Daar is te zien welke sloten er zijn en welke regels voor het onderhoud gelden. Ook is daar informatie te vinden over de verplichtingen die gelden voor sloten langs percelen. HHNK maait daarnaast zelf waterplanten uit ongeveer 6.500 kilometer sloot. Waar wordt op gecontroleerd? De schouwmeester controleert onder meer of: de sloot vrij is van afval; riet en waterplanten de aan- en afvoer van water niet belemmeren; walkanten en beschoeiingen goed zijn onderhouden; bomen en planten minimaal 3 meter boven de waterlijn zijn gesnoeid; Kunstwerken, zoals duikers, bruggen en keerschotten, vrij zijn van begroeiing en in goede staat verkeren. De eigenaar van een kunstwerk is verantwoordelijk voor het onderhoud van de sloot tot 3 meter aan beide kanten van het kunstwerk, ook als deze grenst aan een openbare weg. Meer ruimte voor planten en dieren Een goede doorstroming van water blijft belangrijk, maar ook verschillende soorten planten en dieren krijgen steeds meer aandacht. Daarom heeft HHNK onderzocht hoeveel planten en begroeiing kunnen blijven staan zonder dat het water minder goed kan doorstromen. Op veel locaties mag tegenwoordig meer begroeiing blijven staan dan voorheen. Via de digitale kaart op de pagina Najaarsschouw is te zien welke regels voor een sloot gelden.",
+      "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-06T01:43:47.753Z",
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "gevolgenVoor": "eigenaren van een perceel dat grenst aan een sloot",
+        "gevolg": "Zij krijgen vanaf maandag 19 oktober te maken met schouwmeesters die controleren of hun sloot goed is onderhouden, waarbij onder meer wordt gelet op afval, begroeiing en de staat van walkanten.",
+        "invalshoek": "Wat betekent dit voor eigenaren van een perceel grenzend aan een sloot: zij worden vanaf 19 oktober gecontroleerd op slootonderhoud.",
+        "onderbouwing": "Vanaf 19 oktober 2026 controleert het waterschap of perceeleigenaren hun sloten goed onderhouden en aan de verplichtingen voldoen. Dit raakt direct de eigenaren van percelen die aan water grenzen in het gebied.",
+        "teCheckenBronnen": [
+          "Hoogheemraadschap Hollands Noorderkwartier (HHNK)",
+          "Digitale kaart (legger Wateren) op hhnk.nl"
+        ],
+        "prioriteit": 6
       },
       "aiFout": null
     },
@@ -106,17 +128,17 @@
       "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/36728c9b-225d-4b15-b842-3958e4245398",
       "samenvatting": "From: Gemeente Zaanstad Sent: Fri, 25 Sep 2026 16:01:27 +0200 (CEST) To: Mailbox Raadsgriffie Subject: Het laatste nieuws uit Zaanstad Categories: Ingekomen stukken 25 september 2026 Kruidpadbrug in Jagersveld bijna klaar Als u een wandeling maakt of fietst rond het Jagersplas, heeft u het waarschijnlijk al gezien. De gemeente werkt aan de vernieuwing van brug 118. Deze brug staat ook wel bekend als de Kruidpadbrug. In april moesten we de brug uit veiligheidsoverwegingen afsluiten, maar de brug is nu weer bijna zo goed als nieuw. De verwachting is dat begin oktober de brug weer door iedereen te gebruiken is. Lees meer Laatste kans om een bloembollenpakket te winnen Vraag tussen 1 en 30 september gratis tuinadvies aan bij een Zaanse Tuinranger? Dan maakt u nu kans op 1 van de 3 pakketten met 40 biologische bloembollen van Plant je Mee. Dus wilt u uw tuin dit najaar aanpakken? Of bent u op zoek naar praktische tips voor een koelere tuin en meer vogels, bijen en vlinders? Dan is dit hét moment om gratis tuinadvies aan te vragen! Vraag grats tuinadvies aan Groep 7 van De Kroosduiker in Westzaan wint de Energy Race De afgelopen maand voerden leerlingen energiebesparende acties uit op school, thuis en in de buurt. Van lampen uitdoen en regenwater opvangen tot het maken van posters, flyers en video's. Ook groep 8 en groep 6 eindigden op het podium. Samen voerden de leerlingen maar liefst 808 energiebesparende acties uit. Wethouder Saskia Groenewoud feliciteerde de winnaars persoonlijk. Lees meer over de Energy Race Zaanstad Journaal In huis-aan-huiskrant het Nieuwsblad Zaanstad vindt u het Zaanstad Journaal. Hierin staat nog meer nieuws van de gemeente Zaanstad. Denk aan een toelichting op besluiten, gemeentelijk beleid of nieuwe initiatieven. U kunt het Zaanstad Journaal ook online lezen, via onderstaande button. Zaanstad Journaal Bekendmakingen van B&W Heeft mijn buurman die bouwvergunning nu aangevraagd? Klopt het dat er bomen worden gekapt? Zijn er horecavergunningen verleend? Deze en andere officiële bekendmakingen vindt u in het Nieuwsblad Zaanstad of online via onderstaande button. Bekendmakingen Volg ons Afmelden voor de mailing Contact",
       "gepubliceerdOp": "2026-10-01T00:00:00.000Z",
-      "opgehaaldOp": "2026-10-04T23:54:14.975Z",
+      "opgehaaldOp": "2026-10-06T01:42:59.130Z",
       "documentInhoudOpgehaald": true,
       "aiBeoordeling": {
         "oppakbaar": "ja",
         "gevolgenVoor": "wandelaars en fietsers rond het Jagersplas",
-        "gevolg": "De Kruidpadbrug (brug 118) is begin oktober weer door iedereen te gebruiken nadat deze in april uit veiligheidsoverwegingen was afgesloten.",
-        "invalshoek": "Wat betekent dit voor wandelaars en fietsers rond het Jagersplas: zij kunnen begin oktober weer gebruikmaken van de vernieuwde Kruidpadbrug.",
-        "onderbouwing": "Het bericht vermeldt dat de Kruidpadbrug na een afsluiting in april wegens veiligheidsoverwegingen begin oktober weer door iedereen te gebruiken is, wat direct effect heeft op de route van wandelaars en fietsers in het Jagersveld.",
+        "gevolg": "De Kruidpadbrug (brug 118) is na een eerdere afsluiting in april wegens veiligheidsoverwegingen vanaf begin oktober weer door iedereen te gebruiken.",
+        "invalshoek": "Wat betekent dit voor wandelaars en fietsers rond het Jagersplas: zij kunnen de Kruidpadbrug begin oktober weer gebruiken.",
+        "onderbouwing": "In het bericht staat dat de vernieuwing van brug 118 (Kruidpadbrug) bijna klaar is en dat de verwachting is dat deze begin oktober weer door iedereen te gebruiken is, na een eerdere afsluiting in april vanwege veiligheid.",
         "teCheckenBronnen": [
           "Gemeente Zaanstad",
-          "Afdeling beheer openbare ruimte Zaanstad"
+          "Beheer openbare ruimte Jagersveld"
         ],
         "prioriteit": 6
       },
