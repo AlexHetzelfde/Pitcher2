@@ -1,125 +1,125 @@
 {
   "zaansche-molen": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
     "gevonden": 120,
     "binnenVenster": 0,
     "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 7
+    "opeenvolgendGeenBinnenVenster": 8
   },
   "ibabs-collegeberichten": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 4,
-    "binnenVenster": 4,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 0
-  },
-  "ibabs-ingekomen-stukken": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 31,
-    "binnenVenster": 31,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 0
-  },
-  "ovo-zaanstad": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 10,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 7
-  },
-  "blaise-pascal-college": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 3,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 7
-  },
-  "pascal-zuid": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 1,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 7
-  },
-  "zaans-museum": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 10,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 7
-  },
-  "zaanse-schans": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 10,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 7
-  },
-  "hhnk-actueel": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 5,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 7
-  },
-  "nh-actueel": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 15,
-    "binnenVenster": 14,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 0
-  },
-  "nh-cultuur": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 3,
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 2,
     "binnenVenster": 2,
     "opeenvolgendGeenBerichten": 0,
     "opeenvolgendGeenBinnenVenster": 0
   },
+  "ibabs-ingekomen-stukken": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 16,
+    "binnenVenster": 16,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 0
+  },
+  "ovo-zaanstad": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 0,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 1,
+    "opeenvolgendGeenBinnenVenster": 8
+  },
+  "blaise-pascal-college": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 3,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 8
+  },
+  "pascal-zuid": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 1,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 8
+  },
+  "zaans-museum": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 10,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 8
+  },
+  "zaanse-schans": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 10,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 8
+  },
+  "hhnk-actueel": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 5,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 8
+  },
+  "nh-actueel": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 15,
+    "binnenVenster": 15,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 0
+  },
+  "nh-cultuur": {
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 3,
+    "binnenVenster": 3,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 0
+  },
   "zaanstad-hoorzittingen": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
-    "gevonden": 22,
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
+    "gevonden": 21,
     "binnenVenster": 9,
     "opeenvolgendGeenBerichten": 0,
     "opeenvolgendGeenBinnenVenster": 0
   },
   "zaandijk-leeft": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
     "gevonden": 10,
     "binnenVenster": 0,
     "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 7
+    "opeenvolgendGeenBinnenVenster": 8
   },
   "OmgevingsdienstNHN": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
     "gevonden": 7,
     "binnenVenster": 1,
     "opeenvolgendGeenBerichten": 0,
     "opeenvolgendGeenBinnenVenster": 0
   },
   "omgevingsdienstnoordzeekanaal": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
     "gevonden": 10,
     "binnenVenster": 1,
     "opeenvolgendGeenBerichten": 0,
     "opeenvolgendGeenBinnenVenster": 0
   },
   "zaans-cultuur-huis": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
     "gevonden": 42,
     "binnenVenster": 2,
     "opeenvolgendGeenBerichten": 0,
     "opeenvolgendGeenBinnenVenster": 0
   },
   "WaarheenAgenda": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
     "gevonden": 120,
-    "binnenVenster": 108,
+    "binnenVenster": 120,
     "opeenvolgendGeenBerichten": 0,
     "opeenvolgendGeenBinnenVenster": 0
   },
   "hhnk": {
-    "laatsteRun": "2026-10-07T00:32:48.095Z",
+    "laatsteRun": "2026-10-08T00:54:48.521Z",
     "gevonden": 15,
     "binnenVenster": 2,
     "opeenvolgendGeenBerichten": 0,
