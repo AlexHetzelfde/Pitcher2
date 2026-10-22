@@ -104,8 +104,8 @@ module.exports = [
     id: "OmgevingsdienstNHN",
     naam: "OmgevingsdienstNHN",
     categorie: "lokaal",
-    type: "generieke-lijst",
-    url: "https://www.odnhn.nl/Menu/Over_ons/Nieuws/2022",
+    type: "wp-rest",
+    url: "https://www.odnhn.nl/wp-json/wp/v2/openpub-item?per_page=20&orderby=date&order=desc&_fields=date_gmt,date,link,title,excerpt",
   },
   {
     id: "omgevingsdienstnoordzeekanaal",
