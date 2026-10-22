@@ -50,8 +50,8 @@ module.exports = [
     id: "zaans-museum",
     naam: "Zaans Museum — Nieuws & Pers",
     categorie: "lokaal",
-    type: "generieke-lijst",
-    url: "https://zaansmuseum.nl/nieuws-pers/",
+    type: "rss",
+    url: "https://zaansmuseum.nl/feed/",
   },
   {
     id: "zaanse-schans",
