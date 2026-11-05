@@ -1,7 +1,32 @@
 {
-  "gegenereerdOp": "2026-11-04T01:26:13.645Z",
-  "aantalBerichtenTotaal": 171,
+  "gegenereerdOp": "2026-11-05T01:37:52.164Z",
+  "aantalBerichtenTotaal": 172,
   "topPitches": [
+    {
+      "bronId": "ibabs-ingekomen-stukken",
+      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+      "categorie": "lokaal",
+      "titel": "Het laatste nieuws uit Zaanstad",
+      "itemId": "5a7eac7f-47f6-49f5-b16e-5740d7bcfc25",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/e8f55ebc-2c96-4064-87ff-1b8a8409c37a",
+      "samenvatting": "From: Gemeente Zaanstad Sent: Fri, 30 Oct 2026 16:00:44 +0100 To: Mailbox Raadsgriffie Subject: Het laatste nieuws uit Zaanstad Categories: Ingekomen stukken 30 oktober 2026 Wilt u bladeren kwijt? De bladkorven staan er weer! In de gemeente staan weer zo’n 300 bladkorven, om het opruimen van gevallen blad gemakkelijker te maken. Hierin kunt u tot half december uw bladafval van uw stoep of uit uw straat weggooien. U mag het ook in uw groene kliko gooien. Door het bladafval dat op straat ligt in de bladkorf te gooien, helpt u mee om de putten schoon te houden. Zo kan het water beter weg en vormen zich minder plassen. Door bladafval op te ruimen ontstaan er ook minder gladde plekken. In de bladkorven mag alleen bladafval. Hierin mag dus geen snoeiafval, zoals takken, stronken of onkruid. Meer weten? Heeft uw kind nog geen vaccinatie gehad? Tussen 3 en 7 november a.s. organiseert GGD Zaanstreek-Waterland op 4 plekken in onze regio groepsvaccinaties. Is uw kind ouder dan 4 jaar en heeft het niet alle vaccinaties gehad en wilt u uw kind nu toch gratis laten inenten tegen bijvoorbeeld mazelen, kinkhoest of HPV? Dan kunnen jullie langskomen op een van deze dagen. Dit kan tot uw kind 18 jaar is. Meer weten? Werkzaamheden aan Dorpsstraat Assendelft De gemeente werkt in november drie weken aan de Dorpsstraat in Assendelft. In april ging de maximumsnelheid naar 30 km/u. Nu passen we de weg gedeeltelijk verder aan. We verbreden fietsstroken, leggen nieuwe zebrapaden aan en verbeteren de verkeersveiligheid. De Dorpsstraat blijft bereikbaar. Let wel op tijdelijke verkeersmaatregelen en volg de verkeersborden langs de weg. Meer over de werkzaamheden Contant betalen bij parkeerautomaten stopt In november vervangen we 65 oude parkeerautomaten. Dit betekent dat u vanaf 30 oktober niet meer met contact geld kunt betalen bij de automaten. Steeds meer mensen betalen digitaal en gebruiken geen muntgeld meer. Daarom kunt u bij de nieuwe automaten alleen betalen met uw pinpas, creditcard of een parkeerapp. Sommige automaten krijgen ook een nieuwe plek of verdwijnen. Meer over betaald parkeren Zaanstad Journaal In huis-aan-huiskrant het Nieuwsblad Zaanstad vindt u het Zaanstad Journaal. Hierin staat nog meer nieuws van de gemeente Zaanstad. Denk aan een toelichting op besluiten, gemeentelijk beleid of nieuwe initiatieven. U kunt het Zaanstad Journaal ook online lezen, via onderstaande button. Lees het Zaanstad Journaal Bekendmakingen van B&W Heeft mijn buurman die bouwvergunning nu aangevraagd? Klopt het dat er bomen worden gekapt? Zijn er horecavergunningen verleend? Deze en andere officiële bekendmakingen vindt u in het Nieuwsblad Zaanstad of online via onderstaande button. Lees de Bekendmakingen Volg ons Afmelden voor de mailing Contact",
+      "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-05T01:24:45.920Z",
+      "documentInhoudOpgehaald": true,
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "gevolgenVoor": "automobilisten en bezoekers die willen parkeren in Zaanstad, bewoners die bladafval willen opruimen, en ouders van kinderen die nog een vaccinatie moeten halen",
+        "gevolg": "Automobilisten kunnen vanaf 30 oktober 2026 niet meer met contant geld betalen bij 65 parkeerautomaten en zijn aangewezen op pin, creditcard of een parkeerapp. Daarnaast zijn de bladkorven weer geplaatst tot half december voor bladafval, en organiseert de GGD tussen 3 en 7 november groepsvaccinaties.",
+        "invalshoek": "Wat betekent dit voor automobilisten in Zaanstad: vanaf 30 oktober is betalen met contant geld bij 65 parkeerautomaten niet meer mogelijk.",
+        "onderbouwing": "Dit is een verzamelbericht met meerdere concrete feiten en maatregelen voor inwoners van Zaanstad. Zo stoppen ze met contant betalen bij 65 parkeerautomaten, staan de bladkorven er weer tot half december en zijn er begin november GGD-vaccinaties en wegwerkzaamheden in de Dorpsstraat in Assendelft.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad",
+          "GGD Zaanstreek-Waterland"
+        ],
+        "prioriteit": 8
+      },
+      "aiFout": null
+    },
     {
       "bronId": "ibabs-ingekomen-stukken",
       "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
@@ -11,43 +36,20 @@
       "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/43da1cdf-bd43-4bbf-8619-388114502fa4",
       "samenvatting": "3 november 2026, Assendelft Geachte raadsleden, In aanloop naar de verdere behandeling van de gemeentelijke begroting wil ik vanuit Passend en Veilig Leerlingenvervoer (PVL) en mijn eerdere deelname aan de klankbordgroep leerlingenvervoer binnen Zaanstad graag enkele aandachtspunten meegeven voor het ingediende debatpunt van Dhr. Hendriks (CDA) over het leerlingenvervoer. Wij maken ons zorgen over de veiligheid, gezondheid en individuele belastbaarheid van leerlingen die afhankelijk zijn van het leerlingenvervoer. Met deze brief vragen wij uw aandacht voor noodzakelijke minimumnormen, toezicht op de huidige uitvoering en de voorbereiding van de nieuwe aanbesteding. De urgentie is groot: kinderen missen vandaag onderwijs door te late of uitgevallen ritten of komen uitgeput en overprikkeld aan. Ook zijn ritten onveilig en vinden er met regelmaat ernstige incidenten plaats. Ouders moeten vaak bijspringen. Verbeteringen bij een nieuwe aanbesteding zijn nodig, maar ook binnen het huidige contract moet tijdig worden ingegrepen als vervoer tekortschiet. Veiligheid, gezondheid en individuele belastbaarheid moeten de uitgangspunten zijn voor passend vervoer. Reistijd, voorspelbaarheid, een vertrouwde chauffeur en passende begeleiding kunnen voor bepaalde leerlingen rechtstreeks bepalend zijn voor hun veiligheid. Kostenbeheersing mag niet leiden tot onaanvaardbare risico’s of ontoereikende ondersteuning. Een algemene maximale reistijd is bovendien niet voor ieder kind passend: individuele belastbaarheid kan een kortere rit vereisen. Wij pleiten daarom voor landelijke concrete, toetsbare en bindende minimumnormen maar ook voor een veilige overdracht en handelen bij noodsituaties. En ik hoop dat u dit binnen Zaanstad ook wilt doen. Deze normen vormen de ondergrens waaraan de vervoerder dan altijd moet voldoen om veiligheid en gezondheid vooraf te borgen. Wij praten liever over minimumnormen in plaats van een kwaliteitskader omdat kwaliteit pas achteraf beoordeeld wordt aan de hand van prestaties en ervaringen. Die beoordeling achteraf mag niet het eerste moment zijn waarop blijkt dat noodzakelijke bescherming ontbrak. Een voorbeeld is de recente Zaanse rechtszaak over leerlingenvervoer waarin een zevenpuntsgordel / gordelkap als mogelijke oplossing ter sprake kwam. Daarbij rezen vragen over geschiktheid, veilig gebruik, evacuatie en passende begeleiding. Zulke afwegingen vragen vooraf om duidelijke criteria en verantwoordelijkheden, zodat ouders hierover niet telkens individueel de strijd hoeven aan te gaan, zelfs tot aan een rechter met alle gevolgen van dien. Daarnaast moet de vervoerder structureel transparant inzicht geven in klachten, de afhandeling daarvan en gegevens over werkelijke reistijden, incidenten en uitval. Daarmee kan de gemeente patronen herkennen en tijdig bijsturen in plaats van pas te handelen na incidenten. Willen jullie de wethouder vragen vast te leggen welke eisen bindende minimumnormen worden en welke slechts richtlijnen of aanbevel",
       "gepubliceerdOp": "2026-11-03T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-04T01:09:13.577Z",
+      "opgehaaldOp": "2026-11-05T01:24:45.920Z",
       "documentInhoudOpgehaald": true,
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenVoor": "leerlingen afhankelijk van het leerlingenvervoer in Zaanstad en hun ouders",
-        "gevolg": "Kinderen missen onderwijs door te late of uitgevallen ritten, komen uitgeput en overprikkeld aan of maken onveilige ritten mee, waardoor ouders vaak moeten bijspringen.",
-        "invalshoek": "Wat betekent dit voor ouders en leerlingen van het leerlingenvervoer in Zaanstad: zij kampen nu al met uitvallende ritten en onveilige situaties, terwijl de politiek debatteert over strengere minimumnormen.",
-        "onderbouwing": "In de brief wordt gesteld dat de urgentie groot is doordat kinderen vandaag onderwijs missen door te late of uitgevallen ritten, uitgeput aankomen en ouders moeten bijspringen. Dit raakt direct de dagelijkse praktijk van deze groep in Zaanstad in aanloop naar de begrotingsbehandeling.",
+        "gevolgenVoor": "leerlingen afhankelijk van het leerlingenvervoer en hun ouders",
+        "gegloug": "",
+        "gevolg": "Kinderen missen onderwijs doordat ritten te laat komen of uitvallen, of komen uitgeput en overprikkeld aan op school, en ouders moeten vaak bijspringen.",
+        "invalshoek": "Wat betekent dit voor leerlingen afhankelijk van het leerlingenvervoer en hun ouders: zij ervaren nu al uitvallende of te late ritten en onveilige situaties, terwijl de politiek debatteert over strengere minimumnormen en ingrijpen in het vervoer.",
+        "onderbouwing": "In de brief staat expliciet dat kinderen vandaag onderwijs missen door te late of uitgevallen ritten of uitgeput en overprikkeld aankomen, en dat ouders vaak moeten bijspringen. Dit raakt direct de dagelijkse praktijk van deze groep.",
         "teCheckenBronnen": [
-          "Gemeente Zaanstad (wethouder / ingekomen stukken iBabs)",
           "Passend en Veilig Leerlingenvervoer (PVL)",
-          "Fractie CDA Zaanstad"
+          "Gemeente Zaanstad (behandeling begroting en debatpunt Dhr. Hendriks)"
         ],
         "prioriteit": 8
-      },
-      "aiFout": null
-    },
-    {
-      "bronId": "hhnk",
-      "bronNaam": "hhnk",
-      "categorie": "lokaal",
-      "titel": "Persleidingbreuk",
-      "url": "https://www.hhnk.nl/persleidingbreuk",
-      "samenvatting": "Update: 29 oktober 2026 Waterkwaliteit hersteld Sinds de persleidingbreuk heeft HHNK op verschillende locaties de waterkwaliteit onderzocht. Uit de metingen blijkt dat de waterkwaliteit zich heeft hersteld. De waterkwaliteit is daarmee weer vergelijkbaar met de situatie vóór de persleidingbreuk op 30 augustus. Daarmee vervalt het advies om het water niet te gebruiken. De waarschuwingsborden zijn deze week verwijderd, behalve in het gebied waar nog baggerwerkzaamheden moeten plaatsvinden. De persleidingbreuk heeft niet geleid tot een achteruitgang van de KRW-toestand. Extra metingen Voor het eind van 2026 doet de droneboot nogmaals metingen om te beoordelen of de hersteltrend blijvend is. In 2027 laten we nogmaals een uitgebreide monitoring uitvoeren om te beoordelen of de waterkwaliteit in het gebied nog steeds op het niveau is van vóór de persleidingbreuk. Verminderde waterkwaliteit bij twee volkstuincomplexen Bij de volkstuincomplexen Rust en Vreugd en Tuinwijck zijn lokaal verhoogde nutriëntenconcentraties en lage zuurstofgehalten aangetroffen. Dat wijst op een voedselrijk watersysteem. Omdat er geen meetgegevens zijn van vóór de persleidingbreuk, kan er geen directe relatie gelegd worden met de gevolgen van de persleidingbreuk. Baggerwerkzaamheden Het moment van uitvoering van de baggerwerkzaamheden in de buurt van de persleidingbreuk is afhankelijk van de aanbestedingsprocedure. Bij een korte procedure kan de uitvoering dit jaar nog starten. Op het kaartje hieronder is te zien om welke waterlopen het gaat. Uitgesteld slootonderhoud De meeste sloten in het gebied kunnen nu onderhouden worden voor een goede doorstroming van het water. De betreffende adressen ontvangen een brief met daarin de uitgestelde datum voor de najaarsschouw, namelijk 1 januari 2027. Visstandonderzoek De persleidingbreuk heeft geleid tot vissterfte. In het voorjaar van 2027 doet HHNK extra visstandonderzoek om te beoordelen of de vispopulatie zich in voldoende mate herstelt. Daarna beoordelen wij of er aanvullende maatregelen nodig zijn. Evaluatie Er is opdracht gegeven tot een gezamenlijke evaluatie van Waternet en HHNK van de aanpak van de calamiteit. De verwachting is dat het evaluatierapport in januari 2027 bestuurlijk wordt vastgesteld. Schade melden Als u schade heeft als gevolg van de persleidingbreuk dan kunt u een schadeclaim in te dienen bij HHNK. Dit kan via www.hhnk.nl/een-schadeclaim-indienen. Het is daarbij goed om de schadeclaim toe te lichten en eventuele onderbouwing of facturen bij te voegen. Update liveblog: 5 oktober Resultaten watermetingen Op 1 oktober zijn de resultaten van de metingen van het oppervlaktewater besproken met de klankbordgroep. Het beeld op 30 september oogt gunstiger dan op 24 september; vooral de afname van chloride, sulfaat en bacteriologische belasting springt eruit. Wij verwachten de komende week aan te kunnen geven of het advies om geen gebruik te maken van het oppervlaktewater bijgesteld kan worden. Belangrijkste bevindingen:…",
-      "gepubliceerdOp": "2026-10-30T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-04T01:10:02.797Z",
-      "aiBeoordeling": {
-        "oppakbaar": "ja",
-        "gevolgenVoor": "recreanten en gebruikers van het oppervlaktewater in het getroffen gebied, en eigenaren van percelen met uitgesteld slootonderhoud",
-        "gevolg": "Het advies om het water niet te gebruiken is vervalt doordat de waterkwaliteit zich heeft hersteld en waarschuwingsborden zijn verwijderd. Daarnaast ontvangen eigenaren van bepaalde sloten een brief met een uitgestelde datum voor de najaarsschouw op 1 januari 2027.",
-        "invalshoek": "Wat betekent dit voor gebruikers van het oppervlaktewater en bewoners met sloten in het gebied: het negatieve zwem- en gebruikswateradvies is ingetrokken en slootonderhoud is uitgesteld.",
-        "onderbouwing": "Het bericht meldt dat het advies om het water niet te gebruiken vervalt en dat de waarschuwingsborden grotendeels zijn verwijderd. Ook staat er dat betrokken adressen een brief krijgen over het uitgestelde slootonderhoud tot 1 januari 2027.",
-        "teCheckenBronnen": [
-          "Hoogheemraadschap Hollands Noorderkwartier (HHNK)",
-          "Waternet"
-        ],
-        "prioriteit": 6
       },
       "aiFout": null
     },
@@ -55,24 +57,98 @@
       "bronId": "ibabs-collegeberichten",
       "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
       "categorie": "lokaal",
-      "titel": "Kennisgeving wethouder Van der Laan: Sluiting en oplevering Saendenborch",
-      "itemId": "a228db09-ee72-4eb8-8e35-420f6b4b9d3d",
-      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/5594841d-ba02-43d5-b010-ab47bc9ccbdb",
-      "samenvatting": "Kennisgeving — Laan, van der H. — Ter kennisname — gemeente Zaanstad wethouder H. v.d. Laan Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 29 oktober 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Sluiting en oplevering Saendenborch Ter informatie van college aan de gemeenteraad Hierbij ontvangt u • Ter kennisname Eerder bent u geïnformeerd over de naderende sluiting van Oekraïne opvanglocatie Saendenborch. Vandaag is het pand Saendenborch schoon en leeg opgeleverd aan de eigenaar. Op 5 na is voor de circa 425 bewoners van Saendenborch elders een (opvang)plek gevonden. De meeste daarvan zijn uitgestroomd naar opvanglocaties in de regiogemeenten. De vijf bewoners waarvoor nog geen nieuwe opvangplek in de regio beschikbaar is, worden tijdelijk opgevangen in het City Trip Hostels Zaandam. Deze kosten worden door het Rijk vergoed. We kijken terug op een fijne en goede samenwerking met het Leger des Heils als locatiemanagement en beveiligingsbedrijf GSec. Met vriendelijke groet, H. v.d. Laan, wethouder",
-      "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-04T01:09:05.046Z",
+      "titel": "Kennisgeving Burgemeester J. Hamming: Incident Elzenstraat",
+      "itemId": "d759dc56-06f4-4368-89bf-fb41e76610ca",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/3efd6010-3187-4635-81ad-6abea4b1acda",
+      "samenvatting": "Kennisgeving — Hamming, J. — Actieve informatievoorziening — gemeente Zaanstad burgemeester drs. J. Hamming Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 2 november 2026 Telefoon 14 075 ONDERWERP Incident Elzenstraat www.zaanstad.nl Geachte leden van de raad, In overleg met het Openbaar Ministerie en de politie is besloten de bestuurlijke maatregelen voor een adres te verlengen. Communicatie met bewoners in de omgeving verloopt via een bewonersbrief. Verlenging cameratoezicht en pandsluiting Elzenstraat Na de explosie aan de Zuiddijk op 14 juli 2026 heeft de gemeente de woning tijdelijk gesloten. Daarnaast zijn er tijdelijk camera’s geplaatst. Eerder hebben wij u geïnformeerd dat deze maatregelen verlengd waren tot en met 1 november 2026. In overleg met het Openbaar Ministerie en de politie is besloten het cameratoezicht en de sluiting van de woning nogmaals te verlengen, vooralsnog tot 1 december 2026. Met deze maatregelen willen we eveneens de rust in de buurt behouden, voorkomen dat nieuwe incidenten ontstaan en het veiligheidsgevoel vergroten. Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, J. Hamming de burgemeester van Zaanstad",
+      "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-05T01:24:41.421Z",
       "documentInhoudOpgehaald": true,
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenVoor": "de bewoners van opvanglocatie Saendenborch",
-        "gevolg": "Van de circa 425 bewoners zijn er 5 personen tijdelijk ondergebracht in het City Trip Hostels Zaandam omdat er nog geen nieuwe opvangplek in de regio beschikbaar is.",
-        "invalshoek": "Wat betekent dit voor de laatste bewoners van opvanglocatie Saendenborch: zij worden tijdelijk opgevangen in een hostel omdat er nog geen definitieve plek in de regio is.",
-        "onderbouwing": "Het bericht meldt dat het pand van de opvanglocatie Saendenborch leeg is opgeleverd en dat er voor vijf van de circa 425 bewoners nog geen nieuwe opvangplek is, waardoor zij tijdelijk naar het City Trip Hostels Zaandam gaan.",
+        "gevolgenVoor": "omwonenden en direct betrokkenen aan de Elzenstraat in Zaandam",
+        "gevolg": "Het cameratoezicht en de sluiting van een woning aan de Elzenstraat zijn verlengd tot 1 december 2026 om de rust en veiligheid in de buurt te waarborgen.",
+        "invalshoek": "Wat betekent dit voor omwonenden aan de Elzenstraat: het cameratoezicht en de pandsluiting in hun straat zijn verlengd tot ten minste 1 december 2026.",
+        "onderbouwing": "De burgemeester meldt in een actieve informatievoorziening aan de gemeenteraad dat de bestuurlijke maatregelen (cameratoezicht en pandsluiting) voor een adres aan de Elzenstraat zijn verlengd tot 1 december 2026.",
         "teCheckenBronnen": [
           "Gemeente Zaanstad",
-          "Leger des Heils"
+          "Politie",
+          "Openbaar Ministerie"
         ],
-        "prioriteit": 6
+        "prioriteit": 7
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "ibabs-ingekomen-stukken",
+      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+      "categorie": "lokaal",
+      "titel": "Het laatste nieuws uit Zaanstad",
+      "itemId": "06e79837-543f-4cc3-a4cb-2cde6cc003c4",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/50007a7d-819e-4515-aa55-1bfdb4dcde57",
+      "samenvatting": "From: Gemeente Zaanstad Sent: Fri, 23 Oct 2026 16:01:25 +0200 To: Mailbox Raadsgriffie Subject: Het laatste nieuws uit Zaanstad Categories: Ingekomen stukken 23 oktober 2026 Nationale Klimaatweek 2026 van start in Zaanstad Van 2 t/m 8 november is het de Nationale Klimaatweek. Ook in Zaanstad kunt u meedoen! Ontdek wat u zelf kunt doen voor een duurzamere toekomst. Haal een tegoedbon van €25 voor kledingreparatie, bezoek de WoonWijzerWinkel, doe mee aan natuuractiviteiten of workshops over duurzaam tuinieren. Ook kunt u een filmavond bezoeken of duurzame woningen bekijken. Naar het volledige programma Geef uw kleding een tweede leven! Tijdens de Nationale Klimaatweek krijgt u met het reparatietegoed van de gemeente Zaanstad €25 korting op een reparatie of aanpassing van kleding, schoenen of tassen bij een deelnemende maker. Haal uw reparatietegoedbon op bij het stadhuis of een Zaanse bibliotheek. Let op: op = op! Lees meer Toermalijnbrug is bijna klaar Zaanstad is bijna een nieuwe fiets- en voetgangersbrug rijker. Tussen De Ruijterkade en de Abel Tasmanstraat in Wormerveer leggen we de laatste hand aan de Toermalijnbrug. De aannemer plaatste op dinsdag 20 oktober het kant- en-klare brugdeel. De gemeente werkt nu nog aan de bestrating. Begin november moet alles klaar zijn. Lees meer Meer weten over nepwebshops? Een aantrekkelijke aanbieding, een professionele website en een snelle levertijd. Toch blijkt de webshop achteraf nep. Online oplichting via nepwebshops gebeurt steeds vaker. Praktische tips om veilig online te winkelen en oplichting te herkennen? Kom dan langs bij de politietruck. Die staat de komende dagen op verschillende plaatsen in Zaanstad. Lees meer Webinar: laat geen geld liggen Wilt u besparen op uw energiekosten? Tijdens dit webinar op dinsdag 3 november ontdekt u hoe u uw huis comfortabeler en energiezuiniger maakt. Denk aan isolatie, een warmtepomp of zonnepanelen. Welke investeringen zijn slim en welke subsidies kunt u in Zaanstad aanvragen? Ontdek de mogelijkheden en wat u kunt besparen. Meld u aan Zaanstad Journaal In huis-aan-huiskrant het Nieuwsblad Zaanstad vindt u het Zaanstad Journaal. Hierin staat nog meer nieuws van de gemeente Zaanstad. Denk aan een toelichting op besluiten, gemeentelijk beleid of nieuwe initiatieven. U kunt het Zaanstad Journaal ook online lezen, via onderstaande button. Zaanstad Journaal Bekendmakingen van B&W Heeft mijn buurman die bouwvergunning nu aangevraagd? Klopt het dat er bomen worden gekapt? Zijn er horecavergunningen verleend? Deze en andere officiële bekendmakingen vindt u in het Nieuwsblad Zaanstad of online via onderstaande button. Bekendmakingen Volg ons Afmelden voor de mailing Contact",
+      "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-05T01:24:45.920Z",
+      "documentInhoudOpgehaald": true,
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "gevolgvoor": "inwoners van Zaanstad",
+        "gevolg": "Inwoners kunnen tijdens de Nationale Klimaatweek (2 t/m 8 november) een tegoedbon van 25 euro ophalen voor kledingreparatie bij het stadhuis of een Zaanse bibliotheek, zolang de voorraad strekt.",
+        "invalshoek": "Wat betekent dit voor inwoners van Zaanstad: je kunt deze week een tegoedbon van 25 euro krijgen voor kledingreparatie.",
+        "onderbouwing": "Het bericht kondigt de Nationale Klimaatweek aan waarin inwoners een tegoedbon van 25 euro voor kledingreparatie kunnen ophalen bij het stadhuis of een bibliotheek (zolang de voorraad strekt).",
+        "techeckenbronnen": [
+          "Gemeente Zaanstad",
+          "Zaanse bibliotheken"
+        ],
+        "prioriteit": 7
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "ibabs-ingekomen-stukken",
+      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+      "categorie": "lokaal",
+      "titel": "DRINGEND: Onveilige situatie voor hondenbezitters en gezinnen bij Drielse Wetering / De Tref ('t Kalf)",
+      "itemId": "553cfd4f-8093-4b47-bd60-21fbc15adf74",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/b1eb289d-70f2-4060-901f-714d244fe301",
+      "samenvatting": "Van: <@hotmail.com> Verzonden: donderdag 22 oktober 2026 13:47 Aan: [DL]Gemeenteraad <gemeenteraad@zaanstad.nl> Onderwerp: DRINGEND: Onveilige situatie voor hondenbezitters en gezinnen bij Drielse Wetering / De Tref ('t Kalf) Geacht college van B&W en leden van de gemeenteraad, Met deze e-mail wil ik uw dringende aandacht vragen voor een onlogische en gevaarlijke situatie die is ontstaan in de wijk 't Kalf in Zaandam (omgeving Drielse Wetering), als gevolg van de recent geplaatste verbodsborden voor honden. Hoewel ik begrijp dat de gemeente de hondenkaart actualiseert, heeft de praktijkuitvoering rondom Wijkcentrum De Tref en de DekaMarkt geleid tot een onacceptabele situatie. Door de nieuwe verbodszones zijn de veilige, logische doorsteekjes naar het groen volledig afgesloten met verbodsborden. Als omwonende word ik nu gedwongen te kiezen uit onveilige alternatieven om überhaupt mijn huis uit te kunnen voor een wandeling met mijn hond en mijn kleine kind: 1. **Verkeersgevaar (IJssel):** De route via de Drielse Wetering naar de IJssel heeft op dat stuk niet eens een fietspad of fatsoenlijk voetpad. Hier loop ik met mijn hond en kind direct op de weg, vlak langs de drukke op- en afrit van de s155. 2. **Druk fietspad (Waal):** Het alternatief via de Waal beschikt wel over een fietspad, maar dit is een doorgaande en altijd extreem drukke route waar snelle fietsers en scooters passeren. Dit is met een hond en een klein kind vragen om ongelukken. 3. **Het glasbakkenpad (langs De Tref):** De route vlak langs wijkcentrum De Tref loopt direct langs de glasbakken. Hier ligt zeer regelmatig rondslingerend glas op de grond, wat een acuut risico vormt voor diepe snijwonden in hondenpootjes. 4. **De stoep rondom de parkeerplaats:** Hoewel er een stoep rondom de parkeerplaats van de Drielse Wetering loopt, is dit absoluut geen optie om fatsoenlijk de hond uit te laten. Auto's rijden hier vaak veel te hard en op een smalle stoep direct naast rijdend verkeer kan een hond niet veilig zijn behoefte doen. Zeker nu het vroeg donker is en ik tegelijkertijd de zorg en aandacht voor mijn kleine kind heb, is dit onverantwoord. 5. **Onoverzichtelijke en blinde bocht (Hollandsch Diep / Vleddersdiep):** Als ik een stuk via de Jagersplas wandel, stuit ik bij de uitgang direct op de levensgevaarlijke bocht bij de kruising van het Hollandsch Diep en het Vleddersdiep, pal naast Kinderopvang Sommige mensen die dit bericht hebben ontvangen, ontvangen niet vaak e-mail van@hotmail.com. Ontdek waarom dit belangrijk is Waarschuwing!: Deze e-mail is afkomstig van buiten onze organisatie. Wees extra voorzichtig met linkjes en bijlagen. Zeker als je de afzender niet herkent. Boefje. Er is daar geen fietspad en de bocht is zo onoverzichtelijk dat je aankomend verkeer absoluut niet ziet aankomen. Achter de tekentafel lijkt het afsluiten van deze stukken groen bij De Tref misschien een logische keuze, maar in de praktijk gijzelt u hiermee de hondenbezitters in de omliggende straten (zoals",
+      "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-05T01:24:45.920Z",
+      "documentInhoudOpgehaald": true,
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "gevolgenVoor": "hondenbezitters en gezinnen in de wijk 't Kalf in Zaandam",
+        "gevolg": "Door nieuwe verbodsborden voor honden bij de Drielse Wetering en De Tref worden bewoners gedwongen te kiezen voor onveilige routes langs autowegen, drukke fietspaden of rondslingerend glas.",
+        "invalshoek": "Wat betekent dit voor hondenbezitters en gezinnen in 't Kalf: nieuwe verbodsborden dwingen hen tot onveilige looproutes.",
+        "onderbouwing": "Een omwonende meldt in een ingekomen stuk aan de gemeenteraad dat door nieuwe hondenverboden de veilige doorsteekjes naar het groen zijn afgesloten, waardoor wandelingen met kind en hond gevaarlijk zijn geworden door verkeer en glas.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad (Ingekomen stukken iBabs)",
+          "Afdeling handhaving of openbare ruimte Zaanstad"
+        ],
+        "prioriteit": 7
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Voorbereidend onderzoek bij Vlotbrug ’t Zand",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Voorbereidend_onderzoek_bij_Vlotbrug_t_Zand",
+      "samenvatting": "Voorbereidend onderzoek bij Vlotbrug ’t Zand Publicatiedatum: 30 oktober 2026 Laatst gewijzigd: 30 oktober 2026 0 reacties De provincie Noord-Holland voert op 5 november 2026 onderzoek uit aan Vlotbrug ’t Zand in de gemeente Schagen. Dit onderzoek is nodig ter voorbereiding op het toekomstig groot onderhoud aan de vlotbrug eind 2027 of begin 2028. Begin juli van dit jaar heeft de provincie ook onderzoek gedaan bij Vlotbrug ’t Zand. Tijdens het aanvullend onderzoek op 5 november worden onder meer de brugkelders en de drijvende delen van de vlotbruggen uitgebreid onderzocht. De resultaten gebruikt de aannemer om het groot onderhoud voor te bereiden. Tijdelijke afsluitingen voor gemotoriseerd verkeer Om de werkzaamheden voor het onderzoek veilig uit te kunnen voeren, wordt Vlotbrug ’t Zand tijdelijk afgesloten voor gemotoriseerd verkeer op donderdag 5 november tussen 7.00 uur en 16.00 uur. Het gemotoriseerd verkeer wordt omgeleid via bebording. Doorgang voor voetgangers en (brom)fietsers Voetgangers, (brom)fietsers en mindervaliden kunnen tijdens het onderzoek gebruik blijven maken van de bruggen. Verkeersregelaars zijn aanwezig om het verkeer in goede banen te leiden. Hinder voor scheepvaart De scheepvaart moet op 5 november rekening houden met stremmingen. Brugbediening is alleen mogelijk voor 7.00 uur, tussen 11.00 uur en 12.00 uur en na 16.00 uur. Regulier onderhoud aan vlotbruggen op 11 november De gebiedsaannemer Waaksaam voert op woensdag 11 november regulier onderhoud uit aan Vlotbrug ’t Zand en ook aan de Burgervlotbrug en Sint Maartensvlotbrug. Tijdens de werkzaamheden is elke brug maximaal twee uur afgesloten voor gemotoriseerd verkeer. Het verkeer wordt met bebording omgeleid. Fietsers en voetgangers kunnen wel passeren. Meer informatie Met vragen en klachten kunnen (vaar)weggebruikers en omwonenden contact opnemen met het servicepunt van de provincie Noord-Holland via 0800-0200600 (gratis), per mail: servicepunt@noord-holland.nl. Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
+      "gepubliceerdOp": "2026-10-30T09:24:23.000Z",
+      "opgehaaldOp": "2026-11-05T01:25:13.822Z",
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "gevolgenVoor": "gemotoriseerd verkeer, scheepvaart en omwonenden bij Vlotbrug ’t Zand en omliggende vlotbruggen",
+        "gevolg": "Gemotoriseerd verkeer wordt op 5 november en 11 november tijdelijk omgeleid vanwege onderhoud en onderzoek, en de scheepvaart heeft op 5 november te maken met beperkte brugbediening.",
+        "invalshoek": "Wat betekent dit voor weggebruikers en schippers bij Vlotbrug ’t Zand: tijdelijke omleidingen en stremmingen door onderhoudswerkzaamheden.",
+        "onderbouwing": "Het bericht vermeldt concrete tijdelijke afsluitingen voor gemotoriseerd verkeer met omleidingen op 5 november en 11 november, evenals stremmingen voor de scheepvaart op 5 november.",
+        "teCheckenBronnen": [
+          "Provincie Noord-Holland",
+          "Gebiedsaannemer Waaksaam"
+        ],
+        "prioriteit": 7
       },
       "aiFout": null
     },
@@ -84,18 +160,18 @@
       "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_geeft_subsidie_aan_veehouders_die_willen_stoppen",
       "samenvatting": "Provincie geeft subsidie aan veehouders die willen stoppen Publicatiedatum: 3 november 2026 Laatst gewijzigd: 3 november 2026 0 reacties Noord-Hollandse veehouders die vrijwillig hun bedrijf (deels) willen beëindigen kunnen hiervoor subsidie aanvragen bij de provincie. Er is in totaal ruim 8 miljoen euro beschikbaar. De subsidie is bedoeld voor kleine en middelgrote veehouderijen met varkens, pluimvee en koeien in en binnen een afstand van 500 meter rondom Natura 2000-gebied. Gedeputeerde Jelle Beemsterboer (Landbouw): “We krijgen van het Rijk de financiële middelen om deze subsidie open te zetten. Veel veehouders leven al lange tijd met onzekerheid over hun bedrijf en hun toekomst. Dat vraagt veel van ze en van hun gezinnen. Een aantal van deze ondernemers heeft inmiddels bij ons aangegeven eraan te denken om deels, of helemaal, te willen stoppen met hun bedrijf. Met deze subsidie bieden we die ruimte. We doen dat met oog voor de persoonlijke situatie van de ondernemer.” Voorwaarden De veehouder ontvangt de uitkering voor: het waardeverlies van de productiecapaciteit; productierechten die de veehouder laat vervallen; de sloop van de dierenverblijven, mest- en voeropslagen (productiecapaciteit); administratiekosten (leges) voor vergunningen en planologische procedures; kosten voor adviseurs. De subsidie is van 1 december 2026 tot en met 13 mei 2027 aan te vragen bij het subsidieloket van de provincie. PAS-melders Het gaat om een specifieke uitkering die het Rijk beschikbaar stelt die ook geldt voor PAS-melders. Bij grote belangstelling door PAS-melders kunnen Gedeputeerde Staten extra middelen voor deze groep beschikbaar stellen. Natuurherstel, stikstofvermindering en vergunningverlening De regeling is onderdeel van de Noord-Hollandse aanpak Natuurherstel en Stikstofvermindering. In deze aanpak brengt de provincie maatregelen samen die de stikstofuitstoot verminderen, kwetsbare Natura 2000-gebieden helpen herstellen en weer ruimte geven voor vergunningverlening. De provincie werkt deze aanpak uit met onder andere landbouw- en natuurorganisaties. De conceptaanpak wordt later dit jaar besproken met Provinciale Staten. Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
       "gepubliceerdOp": "2026-11-03T13:24:54.000Z",
-      "opgehaaldOp": "2026-11-04T01:09:36.824Z",
+      "opgehaaldOp": "2026-11-05T01:25:13.822Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenFor": "Noord-Hollandse veehouders met varkens, pluimvee en koeien in en binnen 500 meter rondom Natura 2000-gebied",
-        "gevolg": "Veehouders kunnen vanaf 1 december 2026 tot en met 13 mei 2027 subsidie aanvragen bij de provincie als zij vrijwillig hun bedrijf (deels) willen beëindigen.",
-        "invalshoek": "Wat betekent dit voor Noord-Hollandse veehouders nabij Natura 2000-gebieden: zij kunnen vanaf 1 december subsidie aanvragen om te stoppen?",
-        "onderbouwing": "Het bericht beschrijft een concrete subsidieregeling voor een specifieke groep ondernemers (veehouders rond Natura 2000-gebieden) om hun bedrijf te beëindigen, inclusief de aanvraagperiode vanaf 1 december 2026.",
+        "gevolgenVoor": "veehouders met varkens, pluimvee en koeien in en binnen 500 meter rondom Natura 2000-gebied in Noord-Holland",
+        "gevolg": "Veehouders kunnen vanaf 1 december 2026 tot en met 13 mei 2027 subsidie aanvragen bij de provincie om hun bedrijf (deels) vrijwillig te beëindigen.",
+        "invalshoek": "Wat betekent dit voor veehouders in de buurt van Natura 2000-gebieden: zij kunnen vanaf 1 december subsidie aanvragen om hun bedrijf (deels) te beëindigen.",
+        "onderbouwing": "Het bericht stelt dat Noord-hollandse veehouders binnen een straal van 500 meter van een Natura 2000-gebied subsidie kunnen aanvragen om hun bedrijf te beëindigen en geeft hierbij de exacte voorwaarden en aanvraagperiode.",
         "teCheckenBronnen": [
           "Provincie Noord-Holland",
-          "Subsidieloket provincie Noord-Holland"
+          "Subsidieloket provincie"
         ],
-        "prioriteit": 5
+        "prioriteit": 6
       },
       "aiFout": null
     }
