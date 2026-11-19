@@ -1,6 +1,6 @@
 {
-  "gegenereerdOp": "2026-11-18T03:01:15.104Z",
-  "aantalBerichtenTotaal": 157,
+  "gegenereerdOp": "2026-11-19T02:41:59.853Z",
+  "aantalBerichtenTotaal": 148,
   "topPitches": [
     {
       "bronId": "nh-actueel",
@@ -10,45 +10,42 @@
       "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden",
       "samenvatting": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden Publicatiedatum: 17 november 2026 Laatst gewijzigd: 17 november 2026 0 reacties De provincie werkt samen met de gemeentes Zaanstad en Oostzaan en de Vervoerregio Amsterdam om de doorstroom en de verkeersveiligheid op de Thorbeckeweg in Zaandam (N516) te verbeteren. De komende maanden wordt de aansluiting van de Thorbeckeweg met de Wibautstraat aangepakt. Daarom is het kruispunt Thorbeckeweg/Wibautstraat gesloten vanaf vrijdag 11 december 20:00 uur tot maandag 12 april 2027 05:00 uur. Het kruispunt Wibautstraat/Thorbeckeweg wordt afgesloten om veilig te kunnen werken. Er worden onder andere nieuwe op- en afritten van en naar de Wibautstraat aangelegd, nieuwe paden voor (brom)fietsers en voetpaden en er komen verkeerslichten en straatverlichting. Tijdens de afsluiting gelden omleidingen voor verkeer van en naar Zaandam-Zuid. Omleidingen Autoverkeer rijdt om via de Wibautstraat, het Prins Bernhardplein en de A8. Op 14 december opent de nieuwe Gé Frankentunnel (onder het kruispunt door). Deze is wel open voor verkeer. (Brom)fietsers worden omgeleid via de Zuiddijk. Voor voetgangers komt er een tijdelijke oversteekplaats om de Thorbeckeweg over te steken. Zaandam-Zuid, waaronder Poelenburg en de Bomenbuurt, blijft bereikbaar via de Wibautstraat en het Prins Bernhardplein richting de A8. Door de omleiding kan het drukker worden op het Prins Bernhardplein en bij de aansluitingen op de N516. Op onderstaande afbeelding zie je de afsluiting (rood kruis) en de omleidingsroute (groene lijn). Andere afsluitingen Behalve op het genoemd kruispunt aan de Wibautstraat, zijn er de komende maanden ook andere werkzaamheden en (weg)afsluitingen in het gebied. Daarom kan het in november en december drukker zijn op de wegen in en rond Zaandam. Er zijn omleidingsroutes voor autoverkeer. Houd rekening met extra reistijd. Bekijk de interactieve kaart met alle afsluitingen en omleidingen op en rond de Thorbeckeweg. Aanpak Thorbeckeweg De werkzaamheden op de Thorbeckeweg (N516) maken deel uit van het project AVANT: de Aanpak Verkeersdruk Thorbeckeweg-N516. De provincie Noord-Holland werkt hierin samen met de gemeenten Zaanstad en Oostzaan en de Vervoerregio Amsterdam. De aanpak verbetert de doorstroming en maakt de route veiliger voor openbaar vervoer, fietsers en ander verkeer. De Thorbeckeweg was regelmatig overbelast en bood te weinig ruimte voor het groeiende verkeer in dit gebied. Om dit op te lossen wordt de weg verbreed en komen er nieuwe tunnels en bruggen voor het auto- en fietsverkeer en voetgangers. De werkzaamheden duren naar verwachting tot medio 2027. Meer informatie over de herinrichting van de Thorbeckeweg Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
       "gepubliceerdOp": "2026-11-17T15:43:55.000Z",
-      "opgehaaldOp": "2026-11-18T02:49:47.844Z",
+      "opgehaaldOp": "2026-11-19T02:27:00.520Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenVoor": "autoverkeer, (brom)fietsers en voetgangers in Zaandam-Zuid, Poelenburg en de Bomenbuurt",
-        "gevolg": "Het kruispunt Wibautstraat/Thorbeckeweg is vier maanden lang dicht van 11 december 2026 tot 12 april 2027, waardoor verkeer moet omrijden via onder meer het Prins Bernhardplein en de A8, (brom)fietsers via de Zuiddijk worden omgeleid en weggebruikers rekening moeten houden met extra reistijd en drukte.",
-        "invalshoek": "Wat betekent dit voor weggebruikers in Zaandam-Zuid: het kruispunt Wibautstraat/Thorbeckeweg is vanaf 11 december vier maanden dicht voor werkzaamheden en leidt tot omleidingen en extra reistijd.",
-        "onderbouwing": "Het bericht vermeldt een concrete, langdurige wegafsluiting in Zaandam die direct ingaat op 11 december 2026. Dit raakt direct de dagelijkse reistijd en route van automobilisten, fietsers en voetgangers in de regio Zaanstreek-Waterland.",
+        "gevolgenVoor": "autoverkeer, (brom)fietsers en voetgangers van en naar Zaandam-Zuid, Poelenburg en de Bomenbuurt",
+        "gevolg": "Het kruispunt Wibautstraat/Thorbeckeweg is vier maanden dicht van 11 december 2026 tot 12 april 2027, waardoor verkeer moet omrijden en rekening moet houden met extra reistijd en drukte.",
+        "invalshoek": "Wat betekent dit voor automobilisten, fietsers en voetgangers in Zaandam-Zuid: zij krijgen te maken met omleidingen en extra reistijd door een vier maanden durende afsluiting van het kruispunt Wibautstraat/Thorbeckeweg.",
+        "onderbouwing": "Het kruispunt is vanaf 11 december 2026 tot 12 april 2027 gesloten voor werkzaamheden, waardoor autoverkeer, (brom)fietsers en voetgangers worden omgeleid en rekening moeten houden met extra reistijd en drukte.",
         "teCheckenBronnen": [
           "Provincie Noord-Holland",
-          "Gemeente Zaanstad",
-          "Vervoerregio Amsterdam"
+          "Gemeente Zaanstad"
         ],
-        "prioriteit": 10
+        "prioriteit": 9
       },
       "aiFout": null
     },
     {
-      "bronId": "ibabs-collegeberichten",
-      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
       "categorie": "lokaal",
-      "titel": "Overdracht buurthuizen Zaandam oost",
-      "itemId": "c41f362d-65c7-4da0-b095-a5160bbb0817",
-      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/859b1769-81a8-470b-8187-ba6004129071",
-      "samenvatting": "Raadsinformatiebrief — Karst, R.  — Actieve informatievoorziening — MOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10726707 1/3 Raadsinformatiebrief 1 Onderwerp Overdracht buurthuizen Zaandam Oost Portefeuillehouder R. Karst Portefeuille Buurthuizen Aan de leden van de gemeenteraad Zaanstad, Inleiding Het college informeert de raad over het besluit om het programmatische beheer van de buurthuizen Poelenburcht, Kleurrijk en de Zuidhoek per 2027 onder te brengen bij de huidige Stichting Jeugdteam Zaanstad. Die Stichting zal vanaf dat moment ook de opdracht Werken in de Wijk gaan uitvoeren. Deze drie buurthuizen in Zaandam Oost worden momenteel beheerd door Stichting Dock, met wie de overeenkomst afloopt op 31 december 2026. Dock heeft zelf aangegeven de opdracht niet te willen voortzetten. In de afgelopen jaren hebben deze buurthuizen in Zaandam Oost zich ontwikkeld als cruciale voorzieningen. Ze vormen het hart van de buurt, zijn laagdrempelig en openbaar toegankelijk voor iedereen. Er vinden ontmoetingsactiviteiten plaats voor alle leeftijdsgroepen en er zijn diverse (preventieve) cursussen en buurtevenementen. Vrijwilligers vinden er hun plek of uitvalsbasis. Buurtwerkers werken er samen. De combinatie met de wijk- en jeugdteams op deze ontmoetingsplekken helpt mensen, waarbij ze ook gestimuleerd worden om actief mee te doen. Deze kwetsbare wijken kunnen niet zonder buurthuis. De continuïteit van dit beleid organiseren we door het programmatische buurthuisbeheer als aparte opdracht in de quasi-inbesteding aan de huidige Stichting Jeugdteams Zaanstad mee te geven in de periode 2027 tot en met 2029. Dit besluit past in het voornemen uit het coalitieakkoord 2026-2030 om het huidige aanbod van de bestaande buurthuizen in stand te houden. Toelichting Voortzetten professioneel beheer In Zaanstad zijn de meeste buurthuizen zelfstandige stichtingen, die in eigen beheer werken. Daardoor heeft de gemeente een breed aanbod aan buurthuizen (met dorpshuizen, wijkcentra en verenigingen), overwegend gerund door vrijwilligers. Deze manier van werken is niet overal haalbaar gebleken. In de drie buurthuizen Poelenburcht, Zuidhoek en Kleurrijk is al geruime tijd geen sprake van zelfstandigheid en heeft de gemeente het beheer eerder in opdracht gegeven aan Stichting Dock. In de afgelopen jaren zijn de centra levendig en actief geworden en vormen ze inmiddels stevige onderdelen van de ‘sociale basis’ in de wijken in Zaandam Oost. Er zijn ook vrijwilligers actief in deze locaties, die ondersteunen bij beheerswerkzaamheden en het uitvoeren van activiteiten. Op die manier zijn deze buurthuizen behouden gebleven én versterkt. Het is wenselijk om deze werkwijze in de komende jaren voort te zetten. Continuïteit voor de sociale basis van de inwoners De Stichting zorgt voor een zo naadloos mogelijke uitvoering van de buurthuisopdracht met overdracht van werkzaamheden en het bijbehorende personeel als uitgangspunt. Het betreft hier de beheerder en een deel van de uren van enkele intern opbouwwerkers, die de buurthuisactiviteiten als bekende gezi",
-      "gepubliceerdOp": "2026-11-12T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-18T02:49:13.929Z",
-      "documentInhoudOpgehaald": true,
+      "titel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving",
+      "samenvatting": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving Publicatiedatum: 18 november 2026 Laatst gewijzigd: 18 november 2026 0 reacties Alle Noord-Hollandse gemeenten en de provincie hebben op 18 november het Energiebesparingsakkoord 2027-2030 ondertekend. Met dit akkoord (pdf) werken zij samen aan de naleving van de wettelijke energiebesparingsplicht. Omdat daarvoor extra toezicht en handhaving nodig is, stelt de provincie van 2027 tot en met 2030 in totaal € 4 miljoen beschikbaar. Het gaat in Noord-Holland om ongeveer 15.000 bedrijven en instellingen. De 4 omgevingsdiensten voeren de controles uit: Omgevingsdienst Noord-Holland Noord, Omgevingsdienst IJmond, Omgevingsdienst Noordzeekanaalgebied en Omgevingsdienst Flevoland & Gooi en Vechtstreek. Controles bij bedrijven en instellingen De energiebesparingsplicht geldt voor organisaties met een hoger energiegebruik, zoals horecaondernemingen, sporthallen, ziekenhuizen en industriële bedrijven. Organisaties die jaarlijks minimaal 50.000 kilowattuur elektriciteit of 25.000 kubieke meter aardgas gebruiken, moeten volgens de wet energiebesparende maatregelen nemen. In 2027 en 2028 controleren de 4 Noord-Hollandse omgevingsdiensten organisaties die nog niet eerder zijn gecontroleerd. Daarna volgt risicogestuurd toezicht. Daarbij gaat extra aandacht uit naar bedrijven waar de grootste energiebesparing mogelijk is of waar afspraken nog niet zijn uitgevoerd. Gedeputeerde Anouk Gielen: Energiebesparing is een praktische en noodzakelijke stap voor bedrijven én voor Noord-Holland. Het verlaagt de energierekening en helpt bedrijven om minder kwetsbaar te zijn voor prijsstijgingen. Energiebesparing kan ook ruimte bieden op het overvolle elektriciteitsnet. Dat helpt bedrijven die willen verduurzamen of uitbreiden en biedt ruimte voor andere ontwikkelingen, zoals woningbouw. Informatie en advies Veel energiebesparende maatregelen verdienen zich binnen 7 jaar terug. Denk aan energiezuinige verlichting, betere isolatie en efficiëntere installaties. Bedrijven en instellingen met vragen over de energiebesparingsplicht, een energiecontrole of benodigde maatregelen kunnen contact opnemen met hun omgevingsdienst. Gemeenten en de provincie bieden via energie- en bedrijvenloketten informatie en advies over energiebesparing. Het hele Energiebesparingsakkoord is hier te downloaden (pdf). Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
+      "gepubliceerdOp": "2026-11-18T14:08:38.000Z",
+      "opgehaaldOp": "2026-11-19T02:27:00.520Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenVoor": "bezoekers en gebruikers van buurthuizen Poelenburcht, Kleurrijk en de Zuidhoek in Zaandam Oost",
-        "gevolg": "Het beheer van de drie buurthuizen verandert per 1 januari 2027 van Stichting Dock naar Stichting Jeugdteam Zaanstad, waarbij de gemeente inzet op continuïteit en het behoud van de activiteiten en het aanbod in de wijk.",
-        "invalshoek": "Wat betekent dit voor bezoekers van buurthuizen Poelenburcht, Kleurrijk en de Zuidhoek: hun buurthuis krijgt per 2027 een andere beheerder.",
-        "onderbouwing": "Het college informeert de raad over de overdracht van het programmatische beheer van de buurthuizen Poelenburcht, Kleurrijk en de Zuidhoek per 2027 aan Stichting Jeugdteam Zaanstad omdat de overeenkomst met Stichting Dock afloopt. Dit raakt direct de dagelijkse organisatie en continuïteit van deze buurtvoorzieningen waar bewoners gebruik van maken.",
+        "gevolgenVoor": "bedrijven en instellingen met een jaarlijks verbruik van minimaal 50.000 kWh elektriciteit of 25.000 m³ aardgas in Noord-Holland",
+        "gevolg": "Deze bedrijven en instellingen krijgen in 2027 en 2028 te maken met controles door de omgevingsdienst op de wettelijke energiebesparingsplicht, en moeten energiebesparende maatregelen nemen als zij dat nog niet hebben gedaan.",
+        "invalshoek": "Wat betekent dit voor bedrijven en instellingen in Noord-Holland: zij krijgen vanaf 2027 strenger toezicht en controles op de energiebesparingsplicht.",
+        "onderbouwing": "Het bericht stelt dat provincie en gemeenten € 4 miljoen extra steken in toezicht en handhaving, waarbij omgevingsdiensten in 2027 en 2028 circa 15.000 bedrijven en instellingen gaan controleren op de energiebesparingsplicht.",
         "teCheckenBronnen": [
-          "Gemeente Zaanstad",
-          "Stichting Jeugdteam Zaanstad",
-          "Stichting Dock"
+          "Provincie Noord-Holland",
+          "Omgevingsdienst IJmond",
+          "Omgevingsdienst Noordzeekanaalgebied"
         ],
-        "prioriteit": 7
+        "prioriteit": 6
       },
       "aiFout": null
     },
@@ -60,18 +57,18 @@
       "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_legt_spelregels_voor_meedenken_vast",
       "samenvatting": "Noord-Holland legt spelregels voor meedenken vast Publicatiedatum: 16 november 2026 Laatst gewijzigd: 16 november 2026 0 reacties Provinciale Staten van Noord-Holland hebben de Participatieverordening Noord-Holland 2026 vastgesteld. De Participatieverordening Noord-Holland 2026 maakt inzichtelijk hoe inwoners, ondernemers, organisaties en andere betrokkenen kunnen meepraten over plannen van de provincie en hoe de inspraakprocedure werkt. Ook maakt de verordening duidelijk hoe mensen zelf met een idee, plan of voorstel kunnen komen, onder voorwaarden een provinciale taak over kunnen nemen of een onderwerp op de agenda van Provinciale Staten kunnen plaatsen. Duidelijk waarover u kunt meepraten De nieuwe verordening legt vast dat de provincie bij plannen, programma’s en visies duidelijk maakt: Waarover mensen kunnen meepraten Hoeveel ruimte er is om invloed uit te oefenen Hoe het participatieproces verloopt Hoe de provincie deelnemers informeert en tussentijds terugkoppelt Hoe de besluitvorming tot stand komt Daarnaast stimuleert de provincie de deelname van mensen voor wie meedoen minder vanzelfsprekend is. Onder andere door duidelijk, tijdig en volledig te communiceren. Minder handtekeningen nodig De Verordening Burgerinitiatief Noord-Holland uit 2002 is overgenomen in de participatieverordening met 1 duidelijke aanpassing. Vanaf nu zijn 1500 in plaats van 5000 handtekeningen nodig om een onderwerp op de agenda van Provinciale Staten te plaatsen. Op de pagina Inspraak en meedenken staat een overzicht van de verschillende mogelijkheden om invloed uit te oefenen op het beleid en plannen van de provincie. Hier staat ook de participatieverordening met een toegankelijke toelichting. Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
       "gepubliceerdOp": "2026-11-16T14:19:43.000Z",
-      "opgehaaldOp": "2026-11-18T02:49:47.844Z",
+      "opgehaaldOp": "2026-11-19T02:27:00.520Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenVoor": "inwoners en initiatiefnemers in Noord-Holland",
-        "gevolg": "Inwoners hebben minder handtekeningen nodig (1500 in plaats van 5000) om een onderwerp op de agenda van Provinciale Staten te plaatsen en weten voortaan duidelijker hoe en waarover ze kunnen meepraten.",
-        "invalshoek": "Wat betekent dit voor inwoners van Zaanstreek-Waterland die invloed willen op provinciaal beleid: je hebt voortaan beduidend minder handtekeningen nodig om een burgerinitiatief op de agenda van Provinciale Staten te krijgen.",
-        "onderbouwing": "Provinciale Staten hebben de Participatieverordening vastgesteld waarin staat dat het aantal benodigde handtekeningen voor een burgerinitiatief daalt van 5000 naar 1500 en dat de provincie duidelijker vastlegt hoe inspraak verloopt.",
+        "gevolgenVoor": "Inwoners, ondernemers en organisaties in Noord-Holland die willen meepraten over provinciale plannen of zelf een onderwerp op de agenda willen plaatsen",
+        "gevolg": "Inwoners hebben voortaan nog maar 1500 in plaats van 5000 handtekeningen nodig om een onderwerp op de agenda van Provinciale Staten te plaatsen. Daarnaast is in de nieuwe verordening vastgelegd op welke manier de provincie duidelijk maakt waarover meegedacht kan worden en hoe het participatieproces verloopt.",
+        "invalshoek": "Wat betekent dit voor inwoners van Zaanstreek-Waterland: het wordt makkelijker om een burgerinitiatief op de agenda van de provincie te krijgen doordat er minder handtekeningen nodig zijn.",
+        "onderbouwing": "De Provinciale Staten hebben de Participatieverordening 2026 vastgesteld, waarin specifiek is geregeld dat het aantal benodigde handtekeningen voor een burgerinitiatief is verlaagd van 5000 naar 1500. Dit raakt direct de mogelijkheden voor inwoners om invloed uit te oefenen op provinciaal beleid.",
         "teCheckenBronnen": [
           "Participatieverordening Noord-Holland 2026",
           "Provincie Noord-Holland"
         ],
-        "prioriteit": 5
+        "prioriteit": 4
       },
       "aiFout": null
     }
