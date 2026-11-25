@@ -1,76 +1,27 @@
 {
-  "gegenereerdOp": "2026-11-24T05:25:46.373Z",
-  "aantalBerichtenTotaal": 130,
+  "gegenereerdOp": "2026-11-25T04:14:58.662Z",
+  "aantalBerichtenTotaal": 125,
   "topPitches": [
     {
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "bronId": "OmgevingsdienstNHN",
+      "bronNaam": "OmgevingsdienstNHN",
       "categorie": "lokaal",
-      "titel": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden",
-      "samenvatting": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden Publicatiedatum: 17 november 2026 Laatst gewijzigd: 17 november 2026 0 reacties De provincie werkt samen met de gemeentes Zaanstad en Oostzaan en de Vervoerregio Amsterdam om de doorstroom en de verkeersveiligheid op de Thorbeckeweg in Zaandam (N516) te verbeteren. De komende maanden wordt de aansluiting van de Thorbeckeweg met de Wibautstraat aangepakt. Daarom is het kruispunt Thorbeckeweg/Wibautstraat gesloten vanaf vrijdag 11 december 20:00 uur tot maandag 12 april 2027 05:00 uur. Het kruispunt Wibautstraat/Thorbeckeweg wordt afgesloten om veilig te kunnen werken. Er worden onder andere nieuwe op- en afritten van en naar de Wibautstraat aangelegd, nieuwe paden voor (brom)fietsers en voetpaden en er komen verkeerslichten en straatverlichting. Tijdens de afsluiting gelden omleidingen voor verkeer van en naar Zaandam-Zuid. Omleidingen Autoverkeer rijdt om via de Wibautstraat, het Prins Bernhardplein en de A8. Op 14 december opent de nieuwe Gé Frankentunnel (onder het kruispunt door). Deze is wel open voor verkeer. (Brom)fietsers worden omgeleid via de Zuiddijk. Voor voetgangers komt er een tijdelijke oversteekplaats om de Thorbeckeweg over te steken. Zaandam-Zuid, waaronder Poelenburg en de Bomenbuurt, blijft bereikbaar via de Wibautstraat en het Prins Bernhardplein richting de A8. Door de omleiding kan het drukker worden op het Prins Bernhardplein en bij de aansluitingen op de N516. Op onderstaande afbeelding zie je de afsluiting (rood kruis) en de omleidingsroute (groene lijn). Andere afsluitingen Behalve op het genoemd kruispunt aan de Wibautstraat, zijn er de komende maanden ook andere werkzaamheden en (weg)afsluitingen in het gebied. Daarom kan het in november en december drukker zijn op de wegen in en rond Zaandam. Er zijn omleidingsroutes voor autoverkeer. Houd rekening met extra reistijd. Bekijk de interactieve kaart met alle afsluitingen en omleidingen op en rond de Thorbeckeweg. Aanpak Thorbeckeweg De werkzaamheden op de Thorbeckeweg (N516) maken deel uit van het project AVANT: de Aanpak Verkeersdruk Thorbeckeweg-N516. De provincie Noord-Holland werkt hierin samen met de gemeenten Zaanstad en Oostzaan en de Vervoerregio Amsterdam. De aanpak verbetert de doorstroming en maakt de route veiliger voor openbaar vervoer, fietsers en ander verkeer. De Thorbeckeweg was regelmatig overbelast en bood te weinig ruimte voor het groeiende verkeer in dit gebied. Om dit op te lossen wordt de weg verbreed en komen er nieuwe tunnels en bruggen voor het auto- en fietsverkeer en voetgangers. De werkzaamheden duren naar verwachting tot medio 2027. Meer informatie over de herinrichting van de Thorbeckeweg Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
-      "gepubliceerdOp": "2026-11-17T15:43:55.000Z",
-      "opgehaaldOp": "2026-11-24T05:13:17.991Z",
-      "aiBeoordeling": {
-        "oppakbaar": "ja",
-        "gevolgenVoor": "autoverkeer, (brom)fietsers en voetgangers van en naar Zaandam-Zuid, Poelenburg, de Bomenbuurt en omliggende wegen",
-        "gevolg": "Het kruispunt Wibautstraat/Thorbeckeweg in Zaandam is vanaf vrijdag 11 december 20:00 uur tot maandag 12 april 2027 05:00 uur volledig dicht voor werkzaamheden. Weggebruikers moeten rekening houden met omleidingen (autoverkeer via Wibautstraat, Prins Bernhardplein en de A8, (brom)fietsers via de Zuiddijk) en mogelijk extra reistijd en drukte.",
-        "invalshoek": "Wat betekent dit voor automobilisten, fietsers en voetgangers in Zaandam-Zuid: vier maanden lang omleidingen en extra reistijd door de afsluiting van het kruispunt Wibautstraat/Thorbeckeweg.",
-        "onderbouwing": "Het bericht beschrijft een langdurige wegafsluiting van een belangrijk kruispunt in Zaandam die direct ingaat op 11 december 2026, met concrete omleidingsroutes en verwachte verkeersdrukte voor bewoners en forenzen in Zaanstreek-Waterland.",
-        "teCheckenBronnen": [
-          "Provincie Noord-Holland",
-          "Gemeente Zaanstad",
-          "Vervoerregio Amsterdam"
-        ],
-        "prioriteit": 9
-      },
-      "aiFout": null
-    },
-    {
-      "bronId": "ibabs-ingekomen-stukken",
-      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
-      "categorie": "lokaal",
-      "titel": "Schriftelijke inspraak Saendenborch (Engels)",
-      "itemId": "c98c2641-0af9-4fbe-b143-33b5d8aa8d23",
-      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/3d426257-99cb-4d64-83f0-ce44dea3acb1",
-      "samenvatting": "Van: Verzonden: donderdag 19 november 2026 14:09 Aan: Mailbox Raadsgriffie <Raadsgriffie@zaanstad.nl> CC: Onderwerp: Re: Council meeting COMPLETE STATEMENT BEFORE THE ZAANSTAD MUNICIPAL COUNCIL Good morning, Members of the Council, I would like to begin by making one thing absolutely clear: We are not opposed to the construction of new homes. We are opposed to an urban development solution that, while attempting to solve one problem, risks creating many others for the people who already live in this neighbourhood. A city must certainly develop, but it must do so while respecting those who have built their lives here, purchased their homes, invested their savings and raised their families in this community. Progress should not come at the expense of the people who already call this neighbourhood home. Today, I would like to bring eight important concerns to your attention, none of which should be dismissed or overlooked. FIRST: The Value of Our Homes and Long-Term Financial Consequences Our homes represent one of the most significant investments of our lives. Protecting their value is therefore not simply a matter of personal financial interest, but also of safeguarding the long-term stability and well-being of our community. The construction of a 75-metre-high tower is expected to cast significant shadows during the afternoon, when temperatures in the Netherlands typically reach their highest levels. This shading will substantially reduce passive solar heat gains and decrease electricity generation from existing photovoltaic installations. As a result, we are concerned that the project will adversely affect properties’ energy performance and, result in downgrade of energy labels. A lower energy label could have real financial consequences for homeowners, including less favourable mortgage interest rates. There is also a wider impact on property values. From a property-market perspective, reduced sunlight and lower energy performance could make homes in our neighbourhood less attractive to prospective buyers. An empirical analysis of property data from our neighbourhood indicates that dwellings with an energy label below “A” have, on average, approximately 10% lower WOZ values than otherwise comparable properties. This raises a serious concern: the proposed development may contribute to a reduction in the value of the homes surrounding it! Furthermore, reducing the energy performance of existing homes would run against the broader environmental transition towards more sustainable, energy-efficient housing and the climate commitments pursued by the Netherlands. SECOND: Electricity Costs and Gas Consumption The project is expected to make properties experience significant direct shading and indirect heating impacts arising from neighbouring shade. Consequently, properties will become more reliant on fossil-based energy sources in order to maintain basic domestic energy needs and acceptable indoor comfort levels. The reduced performance of the solar ",
+      "titel": "Noord-Hollandse samenwerking voor energiebesparing: extra inzet op toezicht en handhaving",
+      "url": "https://www.odnhn.nl/nieuws/ruimtelijke-uitdagingen-centraal-in-bijeenkomst-voor-bestuurders-2/",
+      "samenvatting": "Terug naar overzicht 19 november 2026 Noord-Hollandse samenwerking voor energiebesparing: extra inzet op toezicht en handhaving De provincie Noord-Holland en de 44 Noord-Hollandse gemeenten hebben op 18 november het Energiebesparingsakkoord 2027-2030 ondertekend. Met dit akkoord versterken zij de naleving van de wettelijke energiebesparingsplicht. Om dit mogelijk te maken, stelt de provincie in de periode 2027 tot en met 2030 in totaal € 4 miljoen beschikbaar voor extra toezicht en handhaving. In Noord-Holland gaat het om ongeveer 15.000 bedrijven en instellingen die onder deze verplichting vallen. Voor de uitvoering van de controles werken de vier Noord-Hollandse omgevingsdiensten samen: Omgevingsdienst Noord-Holland Noord (OD NHN), Omgevingsdienst IJmond, Omgevingsdienst Noordzeekanaalgebied en Omgevingsdienst Flevoland & Gooi en Vechtstreek. De gezamenlijke aanpak moet ervoor zorgen dat meer organisaties voldoen aan de wettelijke energiebesparingsplicht en tegelijkertijd profiteren van lagere energiekosten en een duurzamere bedrijfsvoering. Controles op energiebesparingsplicht in Noord-Holland Noord De OD NHN houdt toezicht op de naleving van de energiebesparingsplicht binnen haar werkgebied Noord-Holland Noord. De wettelijke verplichting tot energiebesparing geldt voor organisaties met een hoger energieverbruik. Dit zijn organisaties die jaarlijks ten minste 50.000 kilowattuur elektriciteit of 25.000 kubieke meter aardgas gebruiken. Volgens de wet moeten zij energiebesparende maatregelen nemen. In 2027 en 2028 richten de controles zich op organisaties die nog niet eerder zijn bezocht. Daarna wordt het toezicht risicogestuurd uitgevoerd. Daarbij ligt de nadruk op bedrijven waar het grootste energiebesparingspotentieel aanwezig is of waar eerder gemaakte afspraken nog niet zijn nagekomen. Energiebesparing als kans voor bedrijven Energiebesparing levert niet alleen een bijdrage aan verduurzaming, maar kan ook directe voordelen opleveren voor organisaties. Veel maatregelen verdienen zich binnen zeven jaar terug. Voorbeelden zijn de toepassing van energiezuinige verlichting, verbeterde isolatie en efficiëntere installaties. Daarnaast kan een lager energieverbruik bijdragen aan het verminderen van de druk op het overvolle elektriciteitsnet. Hierdoor ontstaat meer ruimte voor bedrijven die willen verduurzamen of uitbreiden en voor andere ontwikkelingen, zoals woningbouw. Gedeputeerde Anouk Gielen benadrukt het belang hiervan: “Energiebesparing is een praktische en noodzakelijke stap voor bedrijven én voor Noord-Holland. Het verlaagt de energierekening en helpt bedrijven om minder kwetsbaar te zijn voor prijsstijgingen. Energiebesparing kan ook ruimte bieden op het overvolle elektriciteitsnet. Dat helpt bedrijven die willen verduurzamen of uitbreiden en biedt ruimte voor andere ontwikkelingen, zoals woningbouw.” Vragen over de energiebesparingsplicht? Bedrijven en instellingen in de regio Noord-Holland Noord met vragen over de…",
       "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-24T05:12:46.883Z",
-      "documentInhoudOpgehaald": true,
+      "opgehaaldOp": "2026-11-25T04:03:33.429Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenVoor": "omwonenden van het geplande bouwproject Saendenborch",
-        "gevolg": "De geplande woontoren van 75 meter hoog kan zorgen voor schaduwval, waardoor woningen minder zonlicht krijgen en de opbrengst van zonnepanelen daalt. Dit kan leiden tot een slechter energielabel, hogere energierekeningen, minder gunstige hypotheekrentes en een daling van de WOZ-waarde met gemiddeld zo'n 10 procent.",
-        "invalshoek": "Wat betekent dit voor omwonenden van de geplande woontoren Saendenborch: zij vrezen dat schaduw van het nieuwe gebouw leidt tot lagere energielabels, hogere stookkosten en een daling van hun woningwaarde.",
-        "onderbouwing": "In de schriftelijke inspraakreactie stellen bewoners dat de komst van een 75 meter hoge toren zorgt voor schaduwval, wat leidt tot een slechter energielabel, verlies van zonne-energie en mogelijke daling van de WOZ-waarde. Dit raakt direct de financiën en woonomstandigheden van de huidige buurtbewoners.",
-        "teCheckenBronnen": [
-          "Gemeente Zaanstad - Ingekomen stukken",
-          "Bestemmingsplan- of projectpagina Saendenborch Zaanstad"
-        ],
-        "prioriteit": 7
-      },
-      "aiFout": null
-    },
-    {
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "categorie": "lokaal",
-      "titel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving",
-      "samenvatting": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving Publicatiedatum: 18 november 2026 Laatst gewijzigd: 18 november 2026 0 reacties Alle Noord-Hollandse gemeenten en de provincie hebben op 18 november het Energiebesparingsakkoord 2027-2030 ondertekend. Met dit akkoord (pdf) werken zij samen aan de naleving van de wettelijke energiebesparingsplicht. Omdat daarvoor extra toezicht en handhaving nodig is, stelt de provincie van 2027 tot en met 2030 in totaal € 4 miljoen beschikbaar. Het gaat in Noord-Holland om ongeveer 15.000 bedrijven en instellingen. De 4 omgevingsdiensten voeren de controles uit: Omgevingsdienst Noord-Holland Noord, Omgevingsdienst IJmond, Omgevingsdienst Noordzeekanaalgebied en Omgevingsdienst Flevoland & Gooi en Vechtstreek. Controles bij bedrijven en instellingen De energiebesparingsplicht geldt voor organisaties met een hoger energiegebruik, zoals horecaondernemingen, sporthallen, ziekenhuizen en industriële bedrijven. Organisaties die jaarlijks minimaal 50.000 kilowattuur elektriciteit of 25.000 kubieke meter aardgas gebruiken, moeten volgens de wet energiebesparende maatregelen nemen. In 2027 en 2028 controleren de 4 Noord-Hollandse omgevingsdiensten organisaties die nog niet eerder zijn gecontroleerd. Daarna volgt risicogestuurd toezicht. Daarbij gaat extra aandacht uit naar bedrijven waar de grootste energiebesparing mogelijk is of waar afspraken nog niet zijn uitgevoerd. Gedeputeerde Anouk Gielen: Energiebesparing is een praktische en noodzakelijke stap voor bedrijven én voor Noord-Holland. Het verlaagt de energierekening en helpt bedrijven om minder kwetsbaar te zijn voor prijsstijgingen. Energiebesparing kan ook ruimte bieden op het overvolle elektriciteitsnet. Dat helpt bedrijven die willen verduurzamen of uitbreiden en biedt ruimte voor andere ontwikkelingen, zoals woningbouw. Informatie en advies Veel energiebesparende maatregelen verdienen zich binnen 7 jaar terug. Denk aan energiezuinige verlichting, betere isolatie en efficiëntere installaties. Bedrijven en instellingen met vragen over de energiebesparingsplicht, een energiecontrole of benodigde maatregelen kunnen contact opnemen met hun omgevingsdienst. Gemeenten en de provincie bieden via energie- en bedrijvenloketten informatie en advies over energiebesparing. Het hele Energiebesparingsakkoord is hier te downloaden (pdf). Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
-      "gepubliceerdOp": "2026-11-18T14:08:38.000Z",
-      "opgehaaldOp": "2026-11-24T05:13:17.991Z",
-      "aiBeoordeling": {
-        "oppakbaar": "ja",
-        "gevolgenVoor": "bedrijven en instellingen met een jaarlijks verbruik van minimaal 50.000 kWh elektriciteit of 25.000 m³ aardgas",
-        "gevolg": "Deze bedrijven en instellingen krijgen in 2027 en 2028 te maken met controles op de energiebesparingsplicht door omgevingsdiensten als ze niet eerder zijn gecontroleerd, en moeten wettelijk verplichte energiebesparende maatregelen nemen.",
-        "invalshoek": "Wat betekent dit voor bedrijven en instellingen in Noord-Holland: zij kunnen in 2027 en 2028 strenger gecontroleerd worden op de energiebesparingsplicht en moeten verplichte maatregelen treffen.",
-        "onderbouwing": "Het bericht stelt dat alle Noord-Hollandse gemeenten en de provincie het Energiebesparingsakkoord hebben getekend en € 4 miljoen vrijmaken voor extra toezicht en handhaving, waarbij omgevingsdiensten in 2027 en 2028 circa 15.000 bedrijven en instellingen met een hoog energieverbruik gaan controleren op de wettelijke energiebesparingsplicht.",
+        "gevolgenVoor": "bedrijven en instellingen in Noord-Holland met een jaarlijks verbruik van minstens 50.000 kWh elektriciteit of 25.000 m³ aardgas",
+        "gevolg": "Zij krijgen in de periode 2027 tot en met 2030 te maken met extra controles en strenger toezicht op de wettelijke energiebesparingsplicht door omgevingsdiensten.",
+        "invalshoek": "Wat betekent dit voor ondernemers in Zaanstreek-Waterland met een hoog energieverbruik: strengere controles op energiebesparing vanaf 2027?",
+        "onderbouwing": "De provincie en gemeenten hebben het Energiebesparingsakkoord getekend en stellen 4 miljoen euro beschikbaar voor extra toezicht en handhaving, waarbij zo'n 15.000 bedrijven die onder de verplichting vallen in de periode 2027-2030 worden gecontroleerd.",
         "teCheckenBronnen": [
           "Omgevingsdienst Noordzeekanaalgebied",
           "Provincie Noord-Holland"
         ],
-        "prioriteit": 7
+        "prioriteit": 6
       },
       "aiFout": null
     },
@@ -82,18 +33,42 @@
       "url": "https://www.hhnk.nl/waterschapsverordening-2027-en-leggers-vastgesteld",
       "samenvatting": "Lees voor Ons dagelijks bestuur heeft de Waterschapsverordening 2027 en de leggers Waterkeringen en Waterveiligheid vastgesteld. De vernieuwde regels met de bijbehorende leggers (digitale kaarten) gelden vanaf 1 januari 2027. De Waterschapsverordening bevat de regels die HHNK hanteert om watergangen, waterkeringen en wegen te beschermen. Elk jaar is er een actualisatie. Een deel van de wijzigingen zorgt voor duidelijkere regels. De wijzigingen voor 2027 zijn onder andere: Wanneer compenseren bij ophoging; er is een vergunningplicht opgenomen in de nieuwe paragraaf 2.1.28 voor het ophogen van percelen. Doel hiervan is het behoud van het natuurlijk waterbergend vermogen, het voorkomen van afwenteling en het behoud van voorspelbaarheid van wateroverlastrisico’s. Geen opmenging lozingswater met schoon water; in artikel 3.3 lid 2 sub f is verduidelijkt dat bij de emissiegrenswaarde moet worden uitgegaan van onverdund afvalwater. Start-/stopmelding grondwateronttrekkingen; in artikel 4.4 is een start-/stopmelding toegevoegd om doelgerichter toezicht mogelijk te maken. Werkingsgebied varend onderhoud; er is een werkingsgebied toegevoegd waarin de door HHNK varend te onderhouden waterlopen zijn opgenomen. Dit werkingsgebied wordt betrokken bij de beoordeling van de minimaal benodigde afmetingen van duikers en bruggen. Afstand kabels en leidingen tot duikers en bruggen; in artikel 2.132 lid 5 is de minimale vereiste afstand verkleind tussen aan te brengen kabels, leidingen en huisaansluitingen ten opzichte van duikers en bruggen, voor een meer passende en werkbare normering. Aanpassen periode gesloten seizoen; de periode van het gesloten seizoen wordt gelijkgetrokken met de door Rijkswaterstaat gehanteerde periode (1 oktober – 1 april). Met uitzondering dat voor de vergunningplichtige activiteit seizoensstrandbebouwing en de informatieplichtige activiteit weiden van dieren de periode 15 oktober – 15 april blijft gelden. Versoepelingen tijdelijke bouwwerken (op hoge gronden); in artikelen 2.12 en 2.13 is een versoepeling opgenomen voor tijdelijke bouwwerken op waterkeringen in het als hoge gronden aangewezen gebied. Voor bouwwerken met een gebruiksduur korter dan twaalf maanden kan worden volstaan met algemene regels, mits na afloop de waterkering in oorspronkelijke staat kan worden hersteld. Vergunningplicht ophogen percelen Na een zorgvuldig participatietraject is er in de vernieuwde Waterschapsverordening voor het hele beheergebied een vergunningplicht opgenomen voor het ophogen van percelen vanaf 4.000 m² met gemiddeld 15 cm of meer. Deze vergunningplicht zorgt voor het behoud van het natuurlijk waterbergend vermogen, voorkomen van afwenteling en behoud van voorspelbaarheid van wateroverlastrisico’s. Bij extreme neerslag is het onvermijdelijk dat er water op het maaiveld komt te staan. Daar is het huidige watersysteem niet op ingericht. Uit onderzoek blijkt dat de laatste jaren door ophogingen, bijvoorbeeld vanwege woningbouw of landbouw, voor 1,2…",
       "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-24T05:13:43.026Z",
+      "opgehaaldOp": "2026-11-25T04:03:47.422Z",
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "gevolgenVoor": "perceeleigenaren en initiatiefnemers van woningbouw of landbouw",
-        "gevolg": "Vanaf 1 januari 2027 geldt er een vergunningplicht voor het ophogen van percelen vanaf 4.000 m² met gemiddeld 15 cm of meer. Ook gelden er nieuwe regels voor onder meer start-/stopmeldingen bij grondwateronttrekkingen en tijdelijke bouwwerken op waterkeringen.",
-        "invalshoek": "Wat betekent dit voor perceeleigenaren en bouwers: nieuwe vergunningplicht en regels voor grondverplaatsingen vanaf 2027.",
-        "onderbouwing": "Het dagelijks bestuur heeft de Waterschapsverordening 2027 vastgesteld waarin per 1 januari 2027 concrete regels en vergunningplichten ingaan voor onder meer het ophogen van percelen en grondwateronttrekkingen, wat direct effect heeft op eigenaren en initiatiefnemers.",
+        "gevolgenVoor": "perceeleigenaren, agrariërs en bouwers die percelen willen ophogen of grondwater onttrekken",
+        "gevolg": "Vanaf 1 januari 2027 geldt er een nieuwe vergunningplicht voor het ophogen van percelen vanaf 4.000 m² met gemiddeld 15 cm of meer. Ook wordt er een start-/stopmelding toegevoegd voor grondwateronttrekkingen.",
+        "invalshoek": "Wat betekent dit voor perceeleigenaren in Zaanstreek-Waterland: strengere regels en een vergunningplicht bij het ophogen van grote percelen vanaf 2027.",
+        "onderbouwing": "Het waterschap HHNK heeft de Waterschapsverordening 2027 vastgesteld waarin per 1 januari 2027 nieuwe regels ingaan, waaronder een vergunningplicht voor perceelophoging en een start-/stopmelding voor grondwateronttrekkingen die direct invloed hebben op burgers en bedrijven die willen bouwen of inrichten.",
         "teCheckenBronnen": [
           "Hoogheemraadschap Hollands Noorderkwartier (HHNK)",
-          "Waterschapsverordening 2027"
+          "Gemeenten in Zaanstreek-Waterland (m.b.t. woningbouw en ophogingen)"
         ],
-        "prioriteit": 5
+        "prioriteit": 6
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving",
+      "samenvatting": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving Publicatiedatum: 18 november 2026 Laatst gewijzigd: 18 november 2026 0 reacties Alle Noord-Hollandse gemeenten en de provincie hebben op 18 november het Energiebesparingsakkoord 2027-2030 ondertekend. Met dit akkoord (pdf) werken zij samen aan de naleving van de wettelijke energiebesparingsplicht. Omdat daarvoor extra toezicht en handhaving nodig is, stelt de provincie van 2027 tot en met 2030 in totaal € 4 miljoen beschikbaar. Het gaat in Noord-Holland om ongeveer 15.000 bedrijven en instellingen. De 4 omgevingsdiensten voeren de controles uit: Omgevingsdienst Noord-Holland Noord, Omgevingsdienst IJmond, Omgevingsdienst Noordzeekanaalgebied en Omgevingsdienst Flevoland & Gooi en Vechtstreek. Controles bij bedrijven en instellingen De energiebesparingsplicht geldt voor organisaties met een hoger energiegebruik, zoals horecaondernemingen, sporthallen, ziekenhuizen en industriële bedrijven. Organisaties die jaarlijks minimaal 50.000 kilowattuur elektriciteit of 25.000 kubieke meter aardgas gebruiken, moeten volgens de wet energiebesparende maatregelen nemen. In 2027 en 2028 controleren de 4 Noord-Hollandse omgevingsdiensten organisaties die nog niet eerder zijn gecontroleerd. Daarna volgt risicogestuurd toezicht. Daarbij gaat extra aandacht uit naar bedrijven waar de grootste energiebesparing mogelijk is of waar afspraken nog niet zijn uitgevoerd. Gedeputeerde Anouk Gielen: Energiebesparing is een praktische en noodzakelijke stap voor bedrijven én voor Noord-Holland. Het verlaagt de energierekening en helpt bedrijven om minder kwetsbaar te zijn voor prijsstijgingen. Energiebesparing kan ook ruimte bieden op het overvolle elektriciteitsnet. Dat helpt bedrijven die willen verduurzamen of uitbreiden en biedt ruimte voor andere ontwikkelingen, zoals woningbouw. Informatie en advies Veel energiebesparende maatregelen verdienen zich binnen 7 jaar terug. Denk aan energiezuinige verlichting, betere isolatie en efficiëntere installaties. Bedrijven en instellingen met vragen over de energiebesparingsplicht, een energiecontrole of benodigde maatregelen kunnen contact opnemen met hun omgevingsdienst. Gemeenten en de provincie bieden via energie- en bedrijvenloketten informatie en advies over energiebesparing. Het hele Energiebesparingsakkoord is hier te downloaden (pdf). Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
+      "gepubliceerdOp": "2026-11-18T14:08:38.000Z",
+      "opgehaaldOp": "2026-11-25T04:03:22.053Z",
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "gevolgenVoor": "bedrijven en instellingen met een jaarlijks verbruik van minimaal 50.000 kWh elektriciteit of 25.000 m3 aardgas in Noord-Holland",
+        "gevolg": "Zij krijgen in 2027 en 2028 te maken met controles door omgevingsdiensten op de wettelijke energiebesparingsplicht en moeten energiebesparende maatregelen nemen die zich binnen zeven jaar terugverdienen.",
+        "invalshoek": "Wat betekent dit voor bedrijven en instellingen in de Zaanstreek: zij kunnen in 2027 en 2028 strenger worden gecontroleerd op energiebesparing en moeten verplicht maatregelen treffen.",
+        "onderbouwing": "Het bericht vermeldt dat alle Noord-Hollandse gemeenten en de provincie een akkoord hebben gesloten voor extra toezicht en handhaving, waarbij omgevingsdiensten in 2027 en 2028 controles gaan uitvoeren bij ongeveer 15.000 bedrijven en instellingen die nog niet eerder zijn gecontroleerd.",
+        "teCheckenBronnen": [
+          "Omgevingsdienst Noordzeekanaalgebied",
+          "Provincie Noord-Holland",
+          "Lokale ondernemersverenigingen in Zaanstreek-Waterland"
+        ],
+        "prioriteit": 6
       },
       "aiFout": null
     }
